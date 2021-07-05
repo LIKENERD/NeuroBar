@@ -1,0 +1,794 @@
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:filelock:Lock 2526779295152 acquired on C:\Users\User/.cache\huggingface\transformers\1b36eeb1fd7b3a6ec11bf46bde2c38e7e68f71ec774694b9e886c86001aab35d.c483bc3440d25937fdac74506b73b76ee6e67f778a804756214363fc2a1a66ef.lock
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:filelock:Lock 2526779295152 released on C:\Users\User/.cache\huggingface\transformers\1b36eeb1fd7b3a6ec11bf46bde2c38e7e68f71ec774694b9e886c86001aab35d.c483bc3440d25937fdac74506b73b76ee6e67f778a804756214363fc2a1a66ef.lock
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:filelock:Lock 2526779394704 acquired on C:\Users\User/.cache\huggingface\transformers\479aa59074c4dcd4c36106252da033d03bc92e3010947ce1d3714de224c2af1f.7362c0dbb32f750eeea5a5b93bbd0c6876eac41453369265d5a49df1c9142b6f.lock
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:filelock:Lock 2526779394704 released on C:\Users\User/.cache\huggingface\transformers\479aa59074c4dcd4c36106252da033d03bc92e3010947ce1d3714de224c2af1f.7362c0dbb32f750eeea5a5b93bbd0c6876eac41453369265d5a49df1c9142b6f.lock
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:filelock:Lock 2526779395136 acquired on C:\Users\User/.cache\huggingface\transformers\06f48b6b3173390d047e15d691fda67ae4ea7733a5eea4b6e0115f5099c4e700.b5cdfa39c63384f94159c36bc9042660c747cea5cf520b43d543bd2c68b3164d.lock
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:filelock:Lock 2526779395136 released on C:\Users\User/.cache\huggingface\transformers\06f48b6b3173390d047e15d691fda67ae4ea7733a5eea4b6e0115f5099c4e700.b5cdfa39c63384f94159c36bc9042660c747cea5cf520b43d543bd2c68b3164d.lock
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:filelock:Lock 2526779395856 acquired on C:\Users\User/.cache\huggingface\transformers\df2b64a4c86a349ba84354d85b7117b106f2b87085c9bb54cde70d3751907c45.4e3da19dd8adaa6d6a9804bfd45d2dcf17ba544de445847443ef1816bfa3d693.lock
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): cdn-lfs.huggingface.co
+INFO:filelock:Lock 2526779395856 released on C:\Users\User/.cache\huggingface\transformers\df2b64a4c86a349ba84354d85b7117b106f2b87085c9bb54cde70d3751907c45.4e3da19dd8adaa6d6a9804bfd45d2dcf17ba544de445847443ef1816bfa3d693.lock
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co
+INFO:aiogram:Bot: SHNEWS [@GENSHNEWS_BOT]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґРєР°
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґРєР°, РєРѕРЅСЊСЏРє, СЃРѕРє
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 544, in _request
+    await resp.start(conn)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client_reqrep.py", line 905, in start
+    self._continue = None
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+INFO:aiogram:Bot: Р‘РђР СЊСЃСЏ РґРѕРјР° [@barathombot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:СЃРѕРє, РІРёСЃРєРё, РІРѕРґРєР°
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:СЃРѕРє, РјР°СЂС‚РёРЅРё, РІРѕРґРєР°
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 969, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore  # noqa
+  File "/opt/anaconda3/lib/python3.8/asyncio/base_events.py", line 1050, in create_connection
+    transport, protocol = await self._create_connection_transport(
+  File "/opt/anaconda3/lib/python3.8/asyncio/base_events.py", line 1080, in _create_connection_transport
+    await waiter
+ConnectionResetError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 520, in _request
+    conn = await self._connector.connect(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 535, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 892, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 1051, in _create_direct_connection
+    raise last_exc
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 1020, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 975, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 142, in make_request
+    raise exceptions.NetworkError(f"aiohttp client throws an error: {e.__class__.__name__}: {e}")
+aiogram.utils.exceptions.NetworkError: Aiohttp client throws an error: ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-78' coro=<Dispatcher._process_polling_updates() done, defined at /opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "bot.py", line 252, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "bot.py", line 201, in get_text
+    return sorted_tuple[0][0]
+IndexError: list index out of range
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 544, in _request
+    await resp.start(conn)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+aiohttp.client_exceptions.ServerDisconnectedError: Server disconnected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 142, in make_request
+    raise exceptions.NetworkError(f"aiohttp client throws an error: {e.__class__.__name__}: {e}")
+aiogram.utils.exceptions.NetworkError: Aiohttp client throws an error: ServerDisconnectedError: Server disconnected
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:СЃРѕРґРєР°
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 969, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore  # noqa
+  File "/opt/anaconda3/lib/python3.8/asyncio/base_events.py", line 1050, in create_connection
+    transport, protocol = await self._create_connection_transport(
+  File "/opt/anaconda3/lib/python3.8/asyncio/base_events.py", line 1080, in _create_connection_transport
+    await waiter
+ConnectionResetError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 520, in _request
+    conn = await self._connector.connect(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 535, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 892, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 1051, in _create_direct_connection
+    raise last_exc
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 1020, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/connector.py", line 975, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 142, in make_request
+    raise exceptions.NetworkError(f"aiohttp client throws an error: {e.__class__.__name__}: {e}")
+aiogram.utils.exceptions.NetworkError: Aiohttp client throws an error: ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-111' coro=<Dispatcher._process_polling_updates() done, defined at /opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "bot.py", line 252, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "bot.py", line 201, in get_text
+    return sorted_tuple[0][0]
+IndexError: list index out of range
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:/stop
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+INFO:aiogram:Bot: Р‘РђР СЊСЃСЏ РґРѕРјР° [@barathombot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-15' coro=<Dispatcher._process_polling_updates() done, defined at /opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "bot.py", line 252, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "bot.py", line 201, in get_text
+    return sorted_tuple[0][0]
+IndexError: list index out of range
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°РІ,РІРѕРґРєР°
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-42' coro=<Dispatcher._process_polling_updates() done, defined at /opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "bot.py", line 252, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "bot.py", line 201, in get_text
+    return sorted_tuple[0][0]
+IndexError: list index out of range
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Р‘РђР СЊСЃСЏ РґРѕРјР° [@barathombot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Р‘РђР СЊСЃСЏ РґРѕРјР° [@barathombot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at /opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "bot.py", line 252, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "bot.py", line 201, in get_text
+    return sorted_tuple[0][0]
+IndexError: list index out of range
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґРєР°,РІРѕРґРєР°,РІРѕРґРєР°
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-27' coro=<Dispatcher._process_polling_updates() done, defined at /opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "bot.py", line 252, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "bot.py", line 201, in get_text
+    return sorted_tuple[0][0]
+IndexError: list index out of range
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:СЃРѕРє, РІРѕРґРєР°, Р»РёРјРѕРЅ
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 544, in _request
+    await resp.start(conn)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+aiohttp.client_exceptions.ServerDisconnectedError: Server disconnected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 142, in make_request
+    raise exceptions.NetworkError(f"aiohttp client throws an error: {e.__class__.__name__}: {e}")
+aiogram.utils.exceptions.NetworkError: Aiohttp client throws an error: ServerDisconnectedError: Server disconnected
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:РІРѕРґР°, Р»РёРјРѕРЅ, Р±РёС‚С‚РµСЂ
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client.py", line 544, in _request
+    await resp.start(conn)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+aiohttp.client_exceptions.ServerDisconnectedError: Server disconnected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/opt/anaconda3/lib/python3.8/site-packages/aiogram/bot/api.py", line 142, in make_request
+    raise exceptions.NetworkError(f"aiohttp client throws an error: {e.__class__.__name__}: {e}")
+aiogram.utils.exceptions.NetworkError: Aiohttp client throws an error: ServerDisconnectedError: Server disconnected
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Р‘РђР СЊСЃСЏ РґРѕРјР° [@barathombot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:СЃРѕРє, РІРѕРґРєР°, РІРёСЃРєРё
+INFO:filelock:Lock 2622270948256 acquired on C:\Users\Night Fury/.cache\huggingface\transformers\1b36eeb1fd7b3a6ec11bf46bde2c38e7e68f71ec774694b9e886c86001aab35d.c483bc3440d25937fdac74506b73b76ee6e67f778a804756214363fc2a1a66ef.lock
+INFO:filelock:Lock 2622270948256 released on C:\Users\Night Fury/.cache\huggingface\transformers\1b36eeb1fd7b3a6ec11bf46bde2c38e7e68f71ec774694b9e886c86001aab35d.c483bc3440d25937fdac74506b73b76ee6e67f778a804756214363fc2a1a66ef.lock
+INFO:filelock:Lock 2622270950464 acquired on C:\Users\Night Fury/.cache\huggingface\transformers\479aa59074c4dcd4c36106252da033d03bc92e3010947ce1d3714de224c2af1f.7362c0dbb32f750eeea5a5b93bbd0c6876eac41453369265d5a49df1c9142b6f.lock
+INFO:filelock:Lock 2622270950464 released on C:\Users\Night Fury/.cache\huggingface\transformers\479aa59074c4dcd4c36106252da033d03bc92e3010947ce1d3714de224c2af1f.7362c0dbb32f750eeea5a5b93bbd0c6876eac41453369265d5a49df1c9142b6f.lock
+INFO:filelock:Lock 2622271138784 acquired on C:\Users\Night Fury/.cache\huggingface\transformers\06f48b6b3173390d047e15d691fda67ae4ea7733a5eea4b6e0115f5099c4e700.b5cdfa39c63384f94159c36bc9042660c747cea5cf520b43d543bd2c68b3164d.lock
+INFO:filelock:Lock 2622271138784 released on C:\Users\Night Fury/.cache\huggingface\transformers\06f48b6b3173390d047e15d691fda67ae4ea7733a5eea4b6e0115f5099c4e700.b5cdfa39c63384f94159c36bc9042660c747cea5cf520b43d543bd2c68b3164d.lock
+INFO:filelock:Lock 2622270948400 acquired on C:\Users\Night Fury/.cache\huggingface\transformers\df2b64a4c86a349ba84354d85b7117b106f2b87085c9bb54cde70d3751907c45.4e3da19dd8adaa6d6a9804bfd45d2dcf17ba544de445847443ef1816bfa3d693.lock
+INFO:filelock:Lock 2622270948400 released on C:\Users\Night Fury/.cache\huggingface\transformers\df2b64a4c86a349ba84354d85b7117b106f2b87085c9bb54cde70d3751907c45.4e3da19dd8adaa6d6a9804bfd45d2dcf17ba544de445847443ef1816bfa3d693.lock
+INFO:aiogram:Bot: БАРься дома [@barathombot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, мартини, сок
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RuntimeError('Expected one of cpu, cuda, xpu, mkldnn, opengl, opencl, ideep, hip, msnpu, mlc, xla, vulkan, meta, hpu device type at start of device string: gpu')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/bot.py", line 249, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/bot.py", line 165, in get_text
+    device = torch.device("gpu")
+RuntimeError: Expected one of cpu, cuda, xpu, mkldnn, opengl, opencl, ideep, hip, msnpu, mlc, xla, vulkan, meta, hpu device type at start of device string: gpu
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, мартини, сок
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RuntimeError('CUDA out of memory. Tried to allocate 58.00 MiB (GPU 0; 6.00 GiB total capacity; 4.45 GiB already allocated; 0 bytes free; 4.59 GiB reserved in total by PyTorch)')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/bot.py", line 249, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/bot.py", line 170, in get_text
+    sample_outputs = model.generate(generated,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\autograd\grad_mode.py", line 28, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1016, in generate
+    return self.sample(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1546, in sample
+    next_token_scores = logits_warper(input_ids, next_token_scores)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_logits_process.py", line 93, in __call__
+    scores = processor(input_ids, scores)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_logits_process.py", line 195, in __call__
+    sorted_logits, sorted_indices = torch.sort(scores, descending=True)
+RuntimeError: CUDA out of memory. Tried to allocate 58.00 MiB (GPU 0; 6.00 GiB total capacity; 4.45 GiB already allocated; 0 bytes free; 4.59 GiB reserved in total by PyTorch)
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, мартини, сок
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:Водка, сок
+INFO:root:First start from user_name = Nat, user_id = 199269545
+INFO:root:('Nat', 199269545) is knocking to our bot
+INFO:root:('Nat', 199269545) send this text:Водка апельсин мята
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-85' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/bot.py", line 249, in handle_docs_photo
+  File "c:/Dev/FP/bot.py", line 201, in get_text
+IndexError: list index out of range
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=FileNotFoundError(2, 'No such file or directory')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/bot.py", line 198, in handle_docs_photo
+    p = open("optfp.gif", 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'optfp.gif'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, мартини, сок
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, мартини, сок
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, мартини, сок
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Небо, ликер, виски, пиво, шашлык, вода
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Небо, ликер, виски, пиво, шашлык, вода
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:вода, виски, ликер
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:вода, виски, ликер
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:вода, виски, ликер
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Водка, сок, битки
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Lyly, user_id = 382728010
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Lyly ILY, [05.07.21 22:15]
+вода, виски, ликер
+
+Nero Bar, [05.07.21 22:15]
+Бармен пошел генерить, Lyly, терпение
+
+Nero Bar, [05.07.21 22:15]
+[ GIF ]
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RuntimeError('CUDA out of memory. Tried to allocate 2.06 GiB (GPU 0; 6.00 GiB total capacity; 2.20 GiB already allocated; 1.53 GiB free; 2.86 GiB reserved in total by PyTorch)')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/bot.py", line 260, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/bot.py", line 193, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+  File "c:/Dev/FP/bot.py", line 138, in generate_title
+    return model_title.generate(generated_title,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\autograd\grad_mode.py", line 28, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1016, in generate
+    return self.sample(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1531, in sample
+    outputs = self(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 965, in forward
+    lm_logits = self.lm_head(hidden_states)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\linear.py", line 96, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\functional.py", line 1847, in linear
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA out of memory. Tried to allocate 2.06 GiB (GPU 0; 6.00 GiB total capacity; 2.20 GiB already allocated; 1.53 GiB free; 2.86 GiB reserved in total by PyTorch)
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:вода, виски, ликер
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=FileNotFoundError(2, 'No such file or directory')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 254, in handle_docs_photo
+    p = open("C:\Dev\FP\input\8oVc.gif", 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Dev\\FP\\input\\8oVc.gif'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:вода, виски, ликер
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!

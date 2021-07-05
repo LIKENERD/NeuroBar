@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Huge model
+model/ALCO_title.pt
+model/ALCO.pt
+model/GPT_FP.pt
+model/pytorch_model_recipe.bin
