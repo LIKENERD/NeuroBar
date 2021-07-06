@@ -792,3 +792,927 @@ INFO:root:('Lyly', 382728010) is knocking to our bot
 INFO:root:('Lyly', 382728010) send this text:вода, виски, ликер
 INFO:aiogram.dispatcher.dispatcher:Stop polling...
 WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Сахар, вода, апельсин
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Абрикос, вода, кокос
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Абрикос, вода, кокос
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Абрикос, вода, кокос, водка
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:водка, вода, сок, вино
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Кокос, водка
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски, кокос
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски, кокос
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:водка, вода, сок, вино
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:водка вода сок вино
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 195, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:водка, вода, сок, вино
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вермут, ликёр, малина
+INFO:root:First start from user_name = ulyumdzhi, user_id = 49131625
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:Калуа, ксюксюб водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-67' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=ValueError('max() arg is an empty sequence')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 199, in get_text
+    ready_recipe = get_ready_recipe(keywords)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 174, in get_ready_recipe
+    max_ready_dict = max(ready_recipe_dict.values())
+ValueError: max() arg is an empty sequence
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:Калуа, ксюксю, водка
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:Малибу, сок лимона
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-80' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=ValueError('max() arg is an empty sequence')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 199, in get_text
+    ready_recipe = get_ready_recipe(keywords)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 174, in get_ready_recipe
+    max_ready_dict = max(ready_recipe_dict.values())
+ValueError: max() arg is an empty sequence
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:Малибу, водка
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:1
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-93' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=ValueError('max() arg is an empty sequence')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 199, in get_text
+    ready_recipe = get_ready_recipe(keywords)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 174, in get_ready_recipe
+    max_ready_dict = max(ready_recipe_dict.values())
+ValueError: max() arg is an empty sequence
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:маракуйя, лимон, виски
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:Водка, сливки, кофе
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:водка, сливки, кофе
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:hvjefrkhgreiughfiuer
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-129' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 195, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:оатакотмоувтопм
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-135' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 195, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-140' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RetryAfter('Flood control exceeded. Retry in 60 seconds.')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 257, in handle_docs_photo
+    await bot.send_animation(chat_id, p)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 829, in send_animation
+    result = await self.request(api.Methods.SEND_ANIMATION, payload, files)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 111, in check_result
+    raise exceptions.RetryAfter(parameters.retry_after)
+aiogram.utils.exceptions.RetryAfter: Flood control exceeded. Retry in 60 seconds.
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-145' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RetryAfter('Flood control exceeded. Retry in 46 seconds.')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 257, in handle_docs_photo
+    await bot.send_animation(chat_id, p)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 829, in send_animation
+    result = await self.request(api.Methods.SEND_ANIMATION, payload, files)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 111, in check_result
+    raise exceptions.RetryAfter(parameters.retry_after)
+aiogram.utils.exceptions.RetryAfter: Flood control exceeded. Retry in 46 seconds.
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-151' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RetryAfter('Flood control exceeded. Retry in 17 seconds.')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 257, in handle_docs_photo
+    await bot.send_animation(chat_id, p)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 829, in send_animation
+    result = await self.request(api.Methods.SEND_ANIMATION, payload, files)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 111, in check_result
+    raise exceptions.RetryAfter(parameters.retry_after)
+aiogram.utils.exceptions.RetryAfter: Flood control exceeded. Retry in 17 seconds.
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:лимон, лед, виски
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:ангостура, виски, виски, виски
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:лед, водка, сок
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:зомби, девст
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-186' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 195, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:зомби, косинус
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-193' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 195, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:шляпа, корова, мяч
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-199' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=ValueError('max() arg is an empty sequence')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 199, in get_text
+    ready_recipe = get_ready_recipe(keywords)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 174, in get_ready_recipe
+    max_ready_dict = max(ready_recipe_dict.values())
+ValueError: max() arg is an empty sequence
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-205' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=ValueError('max() arg is an empty sequence')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 199, in get_text
+    ready_recipe = get_ready_recipe(keywords)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 174, in get_ready_recipe
+    max_ready_dict = max(ready_recipe_dict.values())
+ValueError: max() arg is an empty sequence
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:sudo shutdown now
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-228' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 262, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 195, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Сарай
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-15' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 275, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 207, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Сарай, крыша
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=AttributeError("'list' object has no attribute 'intersection'")>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 275, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 211, in get_text
+    ready_recipe = get_ready_recipe(keywords)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 172, in get_ready_recipe
+    c = unqiue_ingredients.intersection(keywords)
+AttributeError: 'list' object has no attribute 'intersection'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Сарай, крыша
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Сарай, лимон
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Сарай, клубника
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Лимон, водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, водп
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вода, водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=TypeError('can only concatenate str (not "set") to str')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 278, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 213, in get_text
+    ready_recipe = get_ready_recipe(keywords)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 172, in get_ready_recipe
+    print('keywords = ' + keywords)
+TypeError: can only concatenate str (not "set") to str
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вода, водка
+INFO:root: Вот keywords водка, Вода
+INFO:root: Вот unqiue_ingredients егермейстер, шартрез биттер, пюре красной смородины, пикон, розовый лимонад, личи, лецитин, сушеная малина, сельдерей, малиновый сироп, кокосовое мороженое, крыжовниковый джем, сахарная пудра, клубничный сироп, овощные чипсы, вяленое мясо c медом акации, лаймовые листья, кунжут, дыня, тоник, эвкалиптовая тинктура, домашний джин на мандариновых корках, бергамот биттер, ржаной виски, херес педро хименес, односолодовый виски сострова айла, домашний джин на улуне, кокос, киви, брусника, южный комфорт, розовая вода, сок алоэ, домашний сироп кола, белый ром, желток перепелиного яйца, домашний сироп мятная кола, консервированный персик, домашний ванильный мескаль, домашний обогащенный маслом кокоса ром, пахлава, домашний вишневый ликер, грейпфрутовый ликер, домашняя водка на шисо и комбу, спрайт, молотая корица, домашний какао ликер на кафирлайме, соевая мука, домашний сироп маракуйи с кориандром, домашний белый вермут на хмеле, домашняя водка на соусе ворчестер, кокосовая вода, белок перепелиного яйца, банановый ликер зеленый, яблочный сок, каперсы, малина, драмбуи, бехеровка, сыр салерс, домашний обогащенный маслом и бобами тонка коньяк, пшеничный хлеб, пюре маракуйи, домашний биттер милано, груша, шисо, мандариновый сироп, редька, настойка сароматом барбекю, апельсиновый сок, холодный зеленый чай, ванильный сироп, розмарин, домашняя перечная водка, верджус, малиновое мороженое, домашняя нутовая вода, китайский перец молотый, ванильное мороженое, домашний улуновый кордиал, темное пиво, копченая соль, кофейный сироп, ежевика, ворчестер соус, сушеный финик, семена фенхеля, выдержанный ром, лаймовый кордиал, домашний дынный микс, шишка, лакричный биттер, соевый соус, клубничное пюре, копченый чай, домашняя обогащенная маслом какао зубровка, ваниль в стручках, ликер 43, кофе в зернах, домашний медовоимбирный сироп, домашний ягодный чатни, шиповник, лимонный биттер, домашняя перечная текила, бисквит, кокосовый ром, имбирный сироп, сушеный ананас, дабл рай виски, маття, ликер голубики, цитрусовый биттер, сироп мятный мохито, италикус, сельдереевая соль, биттер афродита, золотая текила, белый винный уксус, ромашковый чай в пакетиках, сгущенное молоко, пюре манго, цветок карнивора, орхидея, водка, гвоздика, леденцы, миндальный сироп, перец чили, сок маракуйи, персиковый сок, карамбола, фисташковый сироп, сок папайи, домашний кордиал модена, сироп агавы, ликер пименто драм, американский виски, соляная тинктура, ромашковый чай, домашний вермут с крыжовником, жирные сливки, лондонский сухой джин, херес олоросо, домашний клубничный шраб, мандариновый сок, сухой лед, домашняя содовая на сыворотке с бананом, персиковый биттер, яблочный ликер зеленый, джерри томас биттер, домашний джин на клитории, йогурт, вишневый ликер, стручки гороха, мирин, свежемороженая клубника, домашняя водка с кориандром, ежевичный ликер, сахар в кубиках, сок квашеной капусты, ревеневый ликер, кашаса, биттер излопуха, ледяная сфера, трипл сек, устрица, черносмородиновый сироп, ликер фалернум, ликер личи, тарталетка, лимонад дюшес, биттер лемон, шоколадный биттер, нежирные сливки, красный перец молотый, пишо биттер, авокадо, домашний эликсир пахлавы, банановый ликер желтый, ревень, персиковый сироп, яблоко, гальяно л’аутентико, домашний сельдереевый сироп, банановый сироп желтый, руккола, портвейн бранко, вафельный рожок, медовый ликер, карамельный сироп, домашний кардамоновый биттер, ванильный сахарный песок, ликер перца анчо, домашний сосновомедовый сироп, арахисовая паста, пармезан, ананас, пшеничный колос, домашний джин на гибискусе и пряностях, ананасовый ром, шоколадный соус, сок личи, домашняя томатная вода, домашний клубничнобазиликовый шраб, апельсин, сухие цветки для чая, зеленый виноград, чай сенча, умами биттер, фенхелевый биттер, саке, терновый джин, японский виски, вода без газа, картофель, домашняя лавандовая водка, сушеный инжир, ламинария, белое вино сухое, стрега, манго, сливовый биттер, ананасовый сок, засахаренный имбирь, фернет бранка, гвоздичный биттер, сироп розы, черносмородиновая водка, домашний какао дистиллят, солерос, лавандовый биттер, домашний яблочноревеневый кетчуп, кофе эспрессо, красное вино сухое, домашний джин на тахини, томат черри, персик, мескаль, ванильный крем, домашняя "смертельная" содовая, рахатлукум, тамариндовый соус, черная смородина, домашний бурбон на бобах тонка, писко, домашний лавандовый джин, карамельный попкорн, корица в палочках, печенье, кальвадос, голубичный джем, домашняя пряная водка, лилле блан, ананасовое пюре, ореховый ликер, портвейн руби, ангостура биттер, сироп маршмэллоу, домашний бурбон на масале, пекан, домашний сироп фалернум, ежевичный сироп, корень фенхеля, хрен, зеленый шартрез, клубничное мороженое, ирландский виски, ромашковый ликер, вода из цветков апельсина, имбирное пиво, соджу, щавель, клюквенный сок, халапеньо, гранат, яблочный сорбет, грейпфрутовая водка, абсент, вересковый чай, лилле руж, бадьян, домашний кофейный вермут, граппа, арак батавия, кола, грейпфрут, грушевый ликер, фейхоа, яблочный уксус, домашняя водка на фалафеле, вишневый сироп, домашний джин на эрл грее, сироп шоколадное печенье, обогащенный маслом гхи дамсол, гентиана биттер, сироп лимонника, абрикосовый джем, шотландский виски, сироп гибискуса, домашний шоколадный вермут, ликер амаретто, домашний фруктовый ром, грейпфрутовый сок, грецкий орех, кокосовый ликер, персиковый ликер, домашняя маковая водка, домашний банановый джин, клубника, шалфей, домашний грейпфрутовоукропный кордиал, соль, дынный ликер, пищевое сусальное золото, калина, лимон, красная смородина, домашний ромовый микс, вафля, чинар, херес манзанилья, облепиховый сок, облепиховый джем, выдержанный коньяк, лимонный сок, соленый огурец, пряный ром, кокосовое пюре, эстрагон, энергетик, розовая соль, ликер из цветков бузины, ситечко, белое вино десертное, яичный ликер, перец горошком, сироп лаванды, домашний сироп "пьяная вишня", арбузный сок, сок манго, ревеневый биттер, ликер мараскино, инжирный джем, чипотле, маринованный лук, пряный сироп, тимьян, кленовый сироп, домашний апельсиновый сироп с хреном, гренадин, домашняя шалфейная вода, лайм, выдержанный чистый виски, домашний ванильный виски, цветы фиалки, бальзамический уксус, засахаренный кумкват, ростки гороха сприправами, лаванда, клюква, вишня, лед в кубиках, домашний вишневый ром, медовый уксус, арбуз, грушевый бренди, качим, дэд рэббит ориноко биттер, абрикосовый ликер, дюбонне, мармелад, зеленый чай листовой, изюм, питайя, мандариновый ликер, домашний банановый виски, апероль, портвейн лбв, огурец, чай лотосовый улун, домашний холодный шоколад, фиалковый ликер, орегано, синеголовник, херес фино, желатин, лаймовый сок, домашний мартинез, домашний хининовый ликер с ананасом, цветы яблони, миндальная паста, сок из лимонов гриль, домашний красный вермут с пеканом, мятный ликер зеленый, сироп корицы, черносмородиновый ликер, сахарный сироп, персиковое пюре, перепелиное яйцо, бальзамический крем, тростниковый сахар в кубиках, кокосовый крем, стружка сароматом шоколада, ликер манго, ликер корицы, выдержанный бурбон, взбитые сливки, спирулина, черная соль, кумкват, сироп маракуйи, стручковый перец сладкий, коньяк, домашняя водка на свекле, домашний ромашковый сироп, домашняя картофельная водка, сверхкрепкий ром, темный ром, ирисковый сироп, грецкий биттер, резинка, мята, домашний вишневый уксус, табаско соус красный, ликер вербены, табаско соус зеленый, грейпфрутовая газировка, домашнее шоколадное масло, эликсир д'анверс, трюфельное масло, малиновое пюре, домашний табачный бурбон, гранатовый сок, гибискус в сиропе, домашний обогащенный маслом бурбон, сироп макадамии, инжирный сироп, светлое пиво, маурин квина, апельсиновая цедра, мачилусовый мед, серебряная текила, бурбон, кокосовое молоко, молотый кофе, домашний сироп эрл грей, ананасовый сироп, яблочный сидр, морковный сок, женевер, домашний лимонный шербет, домашний земляничный виски, женьшень вкапсулах, стаут, яблочный сироп зеленый, батат, домашние сливки на обжаренном кофе, фисташки, сироп пряная тыква, домашний сироп хиноки, облепиха, гентиана, корень имбиря, домашнее овощное масло, домашняя бисквитная водка, гуава, сироп соленая карамель, дробленый лед, красный биттер, кокосовая водка, апельсиновый биттер, домашний цитрусовый биттер, белый вермут, эль, чайный биттер, домашний мисо сироп, липовый чай, яблочный сироп желтый, томатный микс, просекко, мед, красный базилик, сухой вермут, какао ликер светлый, сельдереевый джин, имбирный пряник, домашний газированный фруктовый сок, ананасовая газировка, золотой ром, устричный соус, базиликовая тинктура, мадера, орео, мандариновое пюре, кефир, кунжутное масло, сырный рассол, айриш крим, черный перец молотый, сычуаньский бутон, шафран, ледяной куб, яблочный ликер желтый, домашний оршад на фисташках, цитрусовая водка, шоколадное мороженое, чай эрл грей, пита, малиновый ликер, домашняя водка с чили, ежевичное мороженое, аквавит, портвейн тони, женевер с маракуйей, чай ассам, лавандовый мед, физалис, розовый вермут, пюре голубики, домашняя клубничная текила, цвак уникум, сироп фундука, медовые соты, домашний винный сироп, зеленый базилик, сироп личи, хризантема, ликер цветущей вишни, чернослив, апельсиновый джем, сладкий херес блендовый, черный чай, цветы ромашки, курага, домашний табачный сироп, бенедиктин, грейпфрутовая цедра, молоко, односолодовый виски из хайленда, домашний сироп фруктозы, домашняя копченая олия, домашняя орчата с манго и кешью, маршмэллоу, черный шоколад, домашнее вино из маракуйи, клубничный ликер, кардамон, домашний выдержанный ром на зизифусе, кокосовая стружка, домашний виски на чае ходзитя, тамаринд, холодный персиковый чай, красный виноград, коктейльная вишня красная, херес амонтильядо, пшеничное пиво, свежемороженая вишня, сыр па де руж, какао ликер коричневый, вишневый сок, кленовый биттер, сок кешью, жасминовый чай, эбботтс биттер, домашний лавандовокленовый сироп, домашний индийский микс, домашний джин на перге, домашняя текила на камеди, лимонная трава, масло какао, молотый имбирь, чай дянь хун, красный винный уксус, маракуйя, яблочная кислота, пудра гибискуса, домашняя соленая кокосовая карамель, кокосовый сироп, фольга, сахарная вата, вишневый биттер, медовый сироп, самбука классическая, лимончелло, банан, красный вермут, сироп манго, домашний белый вермут на шампиньонах, корень корейского красного женьшеня, консервированный ананас, домашний обогащенный арахисовой пастой ром, горчица тирентьен, домашний калиновый кордиал, малиновая водка, домашний ликер на роме с изюмом, черника, клюквенный джем спортвейном, листья кукурузы, домашняя водка на кацуобуси, лепестки роз, розовый перец, кофе американо, жареный арахис, ликер блю кюрасао, сливочный сыр, мастиха, черный чай листовой, тростниковый сахарный песок, шоколадный сироп, домашний джин на черемухе, мускатный орех молотый, пастис, кофейный ликер, кофе терпентинный, вишневый джем, кумкватовый джем, мятный ликер светлый, домашняя ванильная водка, лаймовая цедра, домашнее цитрусовое масло, арбузный сироп, мандарин, домашний мускатный биттер, малиновый джем, амаро, яблочное пюре, лимонная цедра, мандариновый уксус, миндальное молоко, домашний сироп изстручкового горошка, вишня гриотин, ананасовые листья, укроп, мирто, домашний ванильный ром, ликер юдзу, ликер маракуйи, грейпфрутовый биттер, какаопорошок, пюре личи, банановое пюре, абрикос, кориандр, сливовое вино, апельсиновый сорбет, бамбуковый уголь измельченный, сыр маскарпоне, клубничный джем, черносмородиновый джем, китайский перец в гранулах, содовая, домашний писко на чае, виски биттер, оливки, сливочное масло соленое, сельдереевый биттер, полынь, инжир, ликер драй оранж, домашний сироп на бобах тонка, сахарный песок, домашний пшеничный кордиал, томатный сок, лаймовый сорбет
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вода, водка
+INFO:root: Вот keywords 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вода, водка
+INFO:root: Вот c 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вода, водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вода, водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вода, водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, виски
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски, водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=UnboundLocalError("local variable 'unqiue_ingredients' referenced before assignment")>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 281, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 216, in get_text
+    ready_recipe = get_ready_recipe(keywords)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 172, in get_ready_recipe
+    unqiue_ingredients = set(unqiue_ingredients)
+UnboundLocalError: local variable 'unqiue_ingredients' referenced before assignment
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски, водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:виски, водка
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:вода, водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:вода, водка
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Сарай, нога
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, Селёдка, гречка, виски
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 278, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 209, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 281, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 212, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 283, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 214, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-15' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 283, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 214, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 284, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 215, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 284, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 215, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=AttributeError("'list' object has no attribute 'find'")>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 284, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 206, in get_text
+    keywords = create_keywords(text_user)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 93, in create_keywords
+    if text_user.find(text_user)!=-1:
+AttributeError: 'list' object has no attribute 'find'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Ivan, user_id = 529783174
+INFO:root:('Ivan', 529783174) is knocking to our bot
+INFO:root:('Ivan', 529783174) send this text:Водка, пиво
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=AttributeError("'list' object has no attribute 'find'")>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 284, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 206, in get_text
+    keywords = create_keywords(text_user)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 93, in create_keywords
+    if text_user.find(separator)!=-1:
+AttributeError: 'list' object has no attribute 'find'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Виски.водка
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка.ликер
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка.ликер
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:водка, шампанское
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Малина, абрикос
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:водка, шампанское
+INFO:root:First start from user_name = @anna, user_id = 577200596
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Nero Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Ivan', 529783174) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Коленка, мясо, огурец, пиво, тоник
+INFO:root:('Ivan', 529783174) send this text:Водка, лимон
+INFO:root:('@anna', 577200596) is knocking to our bot
+INFO:root:('@anna', 577200596) send this text:Клубника, апельсин, ананас, ликер, тоник
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:шоколад, вино, лед
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:Добавьте эмодзи в выдачу, будет круче и ярче
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-44' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 282, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 213, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:Водка, ликер
+INFO:root:('Ivan', 529783174) is knocking to our bot
+INFO:root:('Ivan', 529783174) send this text:Водка, пиво
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:водка, мартини, херес
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Банан, гуава, вермут, кофе
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Кефир, банан, водка
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Кефир
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-267' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 282, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 213, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Кефир, банан
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Лимон, апельсин, мандарин
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Тоник, лимон, грецкие орехи
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вермут, чай, гуава
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-387' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RuntimeError('CUDA out of memory. Tried to allocate 2.08 GiB (GPU 0; 6.00 GiB total capacity; 2.21 GiB already allocated; 1.55 GiB free; 2.84 GiB reserved in total by PyTorch)')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 282, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 213, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 157, in generate_title
+    return model_title.generate(generated_title,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\autograd\grad_mode.py", line 28, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1016, in generate
+    return self.sample(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1531, in sample
+    outputs = self(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 965, in forward
+    lm_logits = self.lm_head(hidden_states)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\linear.py", line 96, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\functional.py", line 1847, in linear
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA out of memory. Tried to allocate 2.08 GiB (GPU 0; 6.00 GiB total capacity; 2.21 GiB already allocated; 1.55 GiB free; 2.84 GiB reserved in total by PyTorch)
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Вермут, чай
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!

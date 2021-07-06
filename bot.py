@@ -8,6 +8,7 @@ import logging
 import random
 import numpy as np
 import pandas as pd
+from pandas.core.common import flatten
 from transformers import AutoTokenizer, AutoConfig, AutoModelForPreTraining, \
     AdamW, get_linear_schedule_with_warmup, \
     TrainingArguments, BeamScorer, Trainer, \
@@ -33,7 +34,6 @@ TOKEN = os.getenv("TOKEN")
 
 logging.basicConfig(filename='log.txt', level=logging.INFO)
 
-# TOKEN = '1815651312:AAEx6bf9pBfUPUguUPN4Sw6LmCzECCcnc9I'
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
@@ -41,6 +41,9 @@ dp = Dispatcher(bot)
 
 df_result = pd.read_csv('ready_recipe.csv')
 df_result.drop('Unnamed: 0', axis=1, inplace=True)
+
+
+
 
 # Объявление модели для создания рецепта
 MODEL = 'sberbank-ai/rugpt3small_based_on_gpt2'
@@ -78,6 +81,23 @@ model_title.resize_token_embeddings(len(tokenizer))
 model_title.load_state_dict(torch.load(
     '.\model\ALCO_title.pt', map_location=torch.device(device)))
 model_title.cuda()
+
+def create_keywords(text_user):
+    text_user = text_user.lower()
+    text_user = text_user.replace({'мартини' : 'вермут',\
+                                    'швепс' : 'тоник', \
+                                    'пепси' : 'кола', \
+                                    'пэпси' : 'кола' })
+    text_user = text_user.rstrip()
+    text_user = text_user.lstrip()
+    separators = [', ', ',', '. ', '.', ' ', '; ', ';']
+    for separator in separators:
+        if text_user.find(separator)!=-1:
+            text_user = text_user.split(separator)
+            break
+    if type(text_user) == str:
+        text_user = [text_user]
+    return text_user
 
 
 def generate_recipe(text_user, kw):
@@ -161,7 +181,7 @@ def get_random_title(sample_outputs_title, recipe, keywords):
 
 
 def get_ready_recipe(keywords, df_result=df_result):
-
+    
     ready_recipe_dict = {}
 
     for index, row in df_result.iterrows():
@@ -172,21 +192,22 @@ def get_ready_recipe(keywords, df_result=df_result):
                 else:
                     ready_recipe_dict[index] = 1
 
-    max_ready_dict = max(ready_recipe_dict.values())
-
-    ready_recipe = []
-
-    for k, v in ready_recipe_dict.items():
-        if v == max_ready_dict:
-            ready_recipe.append([df_result["name"][k], df_result["recipe"][k]])
-
-    return random.choices(ready_recipe, k=1)[0]
+    if ready_recipe_dict:
+        max_ready_dict = max(ready_recipe_dict.values())
+        ready_recipe = []
+        for k, v in ready_recipe_dict.items():
+            if v == max_ready_dict:
+                ready_recipe.append([df_result["name"][k], df_result["recipe"][k]])
+        return random.choices(ready_recipe, k=1)[0]
+    else:
+        return ['None']
 
 
 # Делаем фнукцию для генерации текста
 def get_text(text_user):
+    
+    keywords = create_keywords(text_user)
 
-    keywords = text_user.split(', ')
     kw = myDataset.join_keywords(keywords, randomize=False)
 
     sample_outputs_recipe = generate_recipe(text_user, kw)
@@ -196,13 +217,15 @@ def get_text(text_user):
     sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
     recipe_title = get_random_title(
         sample_outputs_title, sorted_tuple[0][0], keywords)
+    recipe = sorted_tuple[0][0].replace(' л ', ' мл ')
 
     ready_recipe = get_ready_recipe(keywords)
-
-    output_gerated = f''
-
-    output = (
-        f'Сгенерированный рецепт: \n\n{recipe_title[0]} \n\n {sorted_tuple[0][0]}\n\n Готовый рецепт: \n\n {ready_recipe[0]} \n\n {ready_recipe[1]} ')
+    
+    if len(ready_recipe) == 1:
+        output = (f'Рецепт от нашего бармена: \n\n{recipe_title[0]} \n\n {recipe}\n\n Классический рецепт с такими игредиентами отсутствует')
+    else:
+        output = (
+            f'Рецепт от нашего бармена: \n\n{recipe_title[0]} \n\n {recipe}\n\n Классический рецепт: \n\n {ready_recipe[0]} \n\n {ready_recipe[1]} ')
 
     return output
 

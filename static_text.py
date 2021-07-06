@@ -1,4 +1,4 @@
-HELLO_TEXT = "Привет, %s, скинь мне ингридиенты!"
+HELLO_TEXT = "Привет, %s, скинь мне ингредиенты через запятую!"
 
 NON_TARGET_CONTENT_TYPES = [
     'photo', 'audio', 'document', 'sticker',
