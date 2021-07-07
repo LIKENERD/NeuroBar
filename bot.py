@@ -22,6 +22,11 @@ from IPython.display import clear_output
 from aiogram import Bot, Dispatcher, executor, types
 from PIL import Image
 
+import logging
+from aiogram import Bot, Dispatcher, executor, types
+import markups as nav
+import random
+
 from mydataset import myDataset, SPECIAL_TOKENS, MAXLEN
 from static_text import HELLO_TEXT, NON_TARGET_TEXT, NON_TARGET_CONTENT_TYPES, WAITING_TEXT
 
@@ -41,9 +46,6 @@ dp = Dispatcher(bot)
 
 df_result = pd.read_csv('ready_recipe.csv')
 df_result.drop('Unnamed: 0', axis=1, inplace=True)
-
-
-
 
 # Объявление модели для создания рецепта
 MODEL = 'sberbank-ai/rugpt3small_based_on_gpt2'
@@ -84,10 +86,10 @@ model_title.cuda()
 
 def create_keywords(text_user):
     text_user = text_user.lower()
-    text_user = text_user.replace({'мартини' : 'вермут',\
-                                    'швепс' : 'тоник', \
-                                    'пепси' : 'кола', \
-                                    'пэпси' : 'кола' })
+    text_user = text_user.replace('мартини', 'вермут',).replace(
+                                    'швепс', 'тоник').replace(
+                                    'пепси', 'кола').replace(
+                                    'пэпси', 'кола')
     text_user = text_user.rstrip()
     text_user = text_user.lstrip()
     separators = [', ', ',', '. ', '.', ' ', '; ', ';']
@@ -119,7 +121,7 @@ def generate_recipe(text_user, kw):
                         max_length=MAXLEN,
                         top_k=30,
                         top_p=0.7,
-                        temperature=0.6,
+                        temperature=0.9,
                         repetition_penalty=2.0,
                         num_return_sequences=100
                         )
@@ -177,11 +179,15 @@ def get_random_title(sample_outputs_title, recipe, keywords):
         a = len(recipe) + len(','.join(keywords))
         titles.append("{}".format(text[a:]))
     set_title = set(titles)
+    titles = []
+    for title in set_title:
+        if len(title.split()) > 1:
+            titles.append(title)
     return random.choices(titles, k=1)
 
 
 def get_ready_recipe(keywords, df_result=df_result):
-    
+
     ready_recipe_dict = {}
 
     for index, row in df_result.iterrows():
@@ -205,7 +211,7 @@ def get_ready_recipe(keywords, df_result=df_result):
 
 # Делаем фнукцию для генерации текста
 def get_text(text_user):
-    
+
     keywords = create_keywords(text_user)
 
     kw = myDataset.join_keywords(keywords, randomize=False)
@@ -220,13 +226,13 @@ def get_text(text_user):
     recipe = sorted_tuple[0][0].replace(' л ', ' мл ')
 
     ready_recipe = get_ready_recipe(keywords)
-    
+
     if len(ready_recipe) == 1:
         output = (f'Рецепт от нашего бармена: \n\n{recipe_title[0]} \n\n {recipe}\n\n Классический рецепт с такими игредиентами отсутствует')
     else:
         output = (
             f'Рецепт от нашего бармена: \n\n{recipe_title[0]} \n\n {recipe}\n\n Классический рецепт: \n\n {ready_recipe[0]} \n\n {ready_recipe[1]} ')
-
+    logging.info(output)
     return output
 
 
@@ -258,34 +264,60 @@ async def handle_docs_photo(message):
     await message.reply(text)
 
 # Проверяем входящие данные на соответствие типу "text"
-
-
 @dp.message_handler(content_types=['text'])
-async def handle_docs_photo(message):
-    # Сохраняем в chat_id номер нашего чата чтобы мы знали куда нам присылать ответ
-    chat_id = message.chat.id
-
-    # Записываем данные пользователя в переменные
-    user_name = message.from_user.first_name
+async def handle_docs_photo(message: types.Message):
     user_id = message.from_user.id
-    message_id = message.message_id
+    if message.text == 'ничего не понял':
+        i = open("input\\tools.jpeg", 'rb')
+        await bot.send_photo(user_id, i)
 
-    # Записвыаем в текст наше сообщение о то, что бот обрабатывает фото
-    text = WAITING_TEXT % user_name
+    elif message.text == 'всё понял':
+        await bot.send_message(message.from_user.id, 'до дна')
 
-    # Пишем в лог сообщение о нашем пользователе
-    logging.info(f'{user_name, user_id} is knocking to our bot')
-    # Отправляем пользователю текст для ожидания
-    await bot.send_message(chat_id, text)
-    p = open(".\input\8oVc.gif", 'rb')
-    await bot.send_animation(chat_id, p)
+    elif message.text == '➡️ Другое':
+        await bot.send_message(message.from_user.id, '➡️ Другое', reply_markup = nav.otherMenu)
 
-    # Делаем наше предсказание на нашем тексте
-    input_text = message.text
-    logging.info(f'{user_name, user_id} send this text:{input_text}')
-    output_text = get_text(input_text)
-    # Отправляем текст нашего результата
-    await bot.send_message(chat_id, output_text)
+    else:
+        # Сохраняем в chat_id номер нашего чата чтобы мы знали куда нам присылать ответ
+        chat_id = message.chat.id
+
+        # Записываем данные пользователя в переменные
+        user_name = message.from_user.first_name
+        user_id = message.from_user.id
+        message_id = message.message_id
+
+        # Записываем в текст наше сообщение о то, что бот обрабатывает фото
+        text = WAITING_TEXT %user_name
+
+        # Пишем в лог сообщение о нашем пользователе
+        logging.info(f'{user_name, user_id} is knocking to our bot')
+        #Отправляем пользователю текст для ожидания
+        await bot.send_message(chat_id, text)
+        p = open(".\input\8oVc.gif", 'rb')
+        await bot.send_animation(chat_id, p)
+
+        # Делаем наше предсказание на нашем тексте
+        input_text = message.text
+        logging.info(f'{user_name, user_id} send this text:{input_text}')
+        output_text = get_text(input_text)
+        # Отправляем текст нашего результата
+        await bot.send_message(chat_id, output_text, reply_markup = nav.mainMenu)
+
+
+
+@dp.message_handler()
+async def bot_message(message: types.Message):
+    #await bot.send_message(message.from_user.id, message.text)
+    if message.text == 'ничего не понял':
+        i = open("input\\tools.jpeg", 'rb')
+        await bot.send_photo(chat_id,i)
+
+    elif message.text == 'всё понял':
+        await bot.send_message(message.from_user.id, 'до дна')
+
+    elif message.text == '➡️ Другое':
+        await bot.send_message(message.from_user.id, '➡️ Другое', reply_markup = nav.otherMenu)
+
 
 # Запуск бота в режиме длительного опроса
 if __name__ == '__main__':
