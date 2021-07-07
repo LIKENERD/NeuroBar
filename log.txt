@@ -116,3 +116,618 @@ INFO:root:Рецепт от нашего бармена:
  Наполни кубок кубиками льда доверху. Налей лимонный сок 15 мл, красный вермут 40 мл, амаро 20 мл и водку 40 мл. Долей имбирное пиво доверху и аккуратно размешай коктейльной ложкой. Укрась полосками огурца, кружком апельсина и половинками клубники с мятой на коктейльной шпажке 
 INFO:aiogram.dispatcher.dispatcher:Stop polling...
 WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, пиво
+INFO:root:Рецепт от нашего бармена: 
+
+Корица с лаймом 
+
+ Налей в стопку вишневый ликер 20 мл. Используя коктейльную ложку и бокал для ирландского кофе на шпажке 2–3 раза сильно растопи масло какао ложками. Наль лаймовый сок 15 г, сироп корицы 10 дэш, водку 40 мл  готовить несколько минут из одной миски или использовать более 500 порций виски
+
+ Классический рецепт: 
+
+ Московский мул 
+
+ Наполни медную кружку кубиками льда доверху. Налей лаймовый сок 10 мл и водку 50 мл. Долей имбирное пиво доверху и аккуратно размешай коктейльной ложкой. Укрась долькой лайма 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, пиво
+INFO:root:Рецепт от нашего бармена: 
+
+Водяной шутер 
+
+ Налей в стакан для смешивания вишневый ликер 25 мл и водку 50 г. Наполни смесительный бокал кубиками льда доверху. Перелей через стрейнер во флюте
+
+ Классический рецепт: 
+
+ Баба Таня 
+
+ Положи в шейкер половинку киви и подави мадлером. Налей лаймовый сок 10 мл, кленовый сироп 10 мл и белое вино сухое 40 мл. Добавь мяту 1 листик и домашнюю ванильную водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный коктейльный бокал. Аккуратно долей просекко доверху 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Пиво, яблочно
+INFO:root:Рецепт от нашего бармена: 
+
+Дымный ром с золотой карамелью 
+
+ Наполни рокс кубиками льда доверху. Налей в шейкер яблочный сок 30 мл и сироп корицы 15 г. Добавь пишо биттер 1 дэш до образования воздушной пены
+
+ Классический рецепт: 
+
+ Доктор Биззаро 
+
+ Налей в шейкер лимонный сок 30 мл и домашний сельдереевый сироп 30 мл. Добавь табаско соус красный 5 дэш, мескаль 30 мл и односолодовый виски из Хайленда 30 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в хайбол. Долей имбирное пиво доверху. Укрась веточкой сельдерея, подсушенным кружком апельсина и перцем чили 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Шиповник, чай
+INFO:root:Рецепт от нашего бармена: 
+
+Дымчатый пунш 
+
+ Наполни хайбол кубиками льда доверху. Налей лимонный сок 15 мл и ликер трипл сек 50 г. Долей горячий чай ассам 5 дэш с острова Айла 20 л
+
+ Классический рецепт: 
+
+ Хладнокровный латте 
+
+ Положи в питчер зеленый чай листовой 2,5 г и молоко 90 мл. Помешивая, нагрей, не доводя до кипения. Налей в шейкер сахарный сироп 20 мл и чай 90 мл. Добавь коньяк 10 мл и соджу 30 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер и ситечко в охлажденный бокал. Укрась веточкой тимьяна и бадьяном 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Финик, арбуз, мартини
+INFO:root:Рецепт от нашего бармена: 
+
+Смешай с огурецом 
+
+ Налей в стопку ликер амаретто 15 мл. Используя коктейльную ложку и абсент 2 дэш., уложи слоями фиалковый биттер 5 г, красный вермут 10 гранул  25 капель. Добавь апельсиновый сок 60 баровлитров. Аккуратно добавляешь через трубочку по одной нарезанной четвертинке арбуза на шпажке
+
+ Классический рецепт: 
+
+ Бижу Кажу 
+
+ Налей в шейкер лаймовый сок 25 мл, сок кешью 75 мл и ликер фалернум 15 мл. Добавь зеленый шартрез 15 мл, домашний вермут на хмеле 20 мл и лондонский сухой джин 50 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в охлажденный глиняный горшок. Укрась веточкой мяты и закрой крышкой 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=FileNotFoundError(2, 'No such file or directory')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot_alex (2).py", line 300, in handle_docs_photo
+    p = open("optfp.gif", 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'optfp.gif'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Соль, сахар, водка
+INFO:root:Рецепт от нашего бармена: 
+
+Водяная грудь 
+
+ Положи в роксовок дробленый лед. Налей сахарный сироп 20 мл и водку 50 г. Долей содовую доверху  Размешай коктейльной ложкой с помощью свизл стик
+
+ Классический рецепт: 
+
+ Модернистский фалафель 
+
+ Положи в рокс ледяной куб. Положи в шейкер зеленый базилик 3 г, соль 5 г и подави мадлером. Налей в шейкер лимонный сок 15 мл, сахарный сироп 15 мл и мастиху 5 мл. Добавь 5 капель домашнего травяного масла, зеленый шартрез 5 мл и домашнюю водку на фалафеле 50 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер и ситечко в рокс. Укрась кружком редиса 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, пиво
+INFO:root:Рецепт от нашего бармена: 
+
+Виски финик 
+
+ Наполни хайбол кубиками льда доверху. Налей вишневый ликер 20 мл и водку 50 г. Долей имбирное пиво 100 баров за 1/3 коктейльных ложки
+
+ Классический рецепт: 
+
+ Баба Таня 
+
+ Положи в шейкер половинку киви и подави мадлером. Налей лаймовый сок 10 мл, кленовый сироп 10 мл и белое вино сухое 40 мл. Добавь мяту 1 листик и домашнюю ванильную водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный коктейльный бокал. Аккуратно долей просекко доверху 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:ничего не понял
+INFO:root:Рецепт от нашего бармена: 
+
+Сливочный мармелад 
+
+ Налей в стопку гренадин 5 мл. Используя коктейльную ложку уложи слоями ликер мараскино 15 капель и водку 20 гранул. Укрась апельсиновой цедрой с лимонной травой
+
+ Классический рецепт: 
+
+ Сухой рубин 
+
+ Положи ледяной куб в коктейльный бокал. Налей в стакан для смешивания сахарный сироп 5 мл и лилле руж 30 мл. Добавь фернет бранка 1 дэш, сладкий херес блендовый 30 мл и водку 30 мл. Наполни стакан для смешивания кубиками льда и аккуратно размешай коктейльной ложкой. Перелей через стрейнер в коктейльный бокал 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:ничего не понял
+INFO:root:Рецепт от нашего бармена: 
+
+Шоколадная пуля 
+
+ Налей в стопку кофейный ликер 20 мл. Используя коктейльную ложку и вилокую драмбуи 10 шт., уложь слой яичного порошка 15 капель. Укрась кружком апельсина
+
+ Классический рецепт: 
+
+ Пача Ибица 
+
+ Положи в блендер очищенный и нарезанный киви. Добавь вишневый джем 10 коктейльных ложек. Налей сахарный сироп 25 мл и темный ром 50 мл. Насыпь в блендер совок дробленого льда и взбей. Перелей в харрикейн. Укрась двумя вишенками 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, пиво
+INFO:root:Рецепт от нашего бармена: 
+
+Розовый туман 
+
+ Налей в стакан для смешивания вишневый ликер 20 мл и водку 30. Наполни коллинз кубиками льда доверху. Перелей через стрейнер во флюте
+
+ Классический рецепт: 
+
+ Московский весенний пунш 
+
+ Положи в слинг малину 5 ягод, добавь мед 10 мл и подави мадлером. Наполни слинг дробленым льдом доверху. Налей лимонный сок 15 мл и водку 40 мл. Долей имбирное пиво доверху и аккуратно размешай коктейльной ложкой. Досыпь немного дробленого льда. Укрась веточкой мяты и 2 ягодами малины на коктейльной шпажке 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, пиво
+INFO:root:Рецепт от нашего бармена: 
+
+Водный дайкири 
+
+ Налей в стопку вишневый ликер 15 мл. Используя коктейльную ложку уложи слоями водку 25 и писко 50 капли. Подожги содержимое трубочки горелкой до образования пены
+
+ Классический рецепт: 
+
+ Баба Таня 
+
+ Положи в шейкер половинку киви и подави мадлером. Налей лаймовый сок 10 мл, кленовый сироп 10 мл и белое вино сухое 40 мл. Добавь мяту 1 листик и домашнюю ванильную водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный коктейльный бокал. Аккуратно долей просекко доверху 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, пиво
+INFO:root:Рецепт от нашего бармена: 
+
+Пишковый мармелад 
+
+ Налей в стакан для смешивания вишневый ликер 15 мл и водку 75 г. Наполни смесительный бокал кубиками льда доверху. Наль пишо биттер лемон 45 дэш
+
+ Классический рецепт: 
+
+ Белая сангрия в пунше 
+
+ Пятилитровой чаши для пунша хватит примерно на 20–25 порций. Наполни чашу кубиками льда на 1/3. Брось в чашу примерно 15 коктейльных вишен и нарезанные на кружки: апельсин, лимон и лайм. Налей сахарный сироп 200 мл, белое вино сухое 1300 мл, персиковый ликер 300 мл и водку 300 мл. Долей содовую доверху и аккуратно размешай коктейльной ложкой 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, пиво
+INFO:root:Рецепт от нашего бармена: 
+
+Пить можно с розой 
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей охлажденный вишневый сок 150 г и размешай коктейльной ложкой несколько минутusta
+
+ Классический рецепт: 
+
+ Ярость дракона 
+
+ Помести в хайбол чайное ситечко с сухим льдом. Налей в шейкер лаймовый сок 10 мл, грейпфрутовый сок 40 мл и пряный сироп 10 мл. Добавь сироп личи 10 мл, шотландский вики 30 мл и водку 60 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в хайбол. Долей пшеничное пиво доверху. Укрась двумя кружками подсушенной питайи и подавай с бомбильей 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, cjr
+INFO:root:Рецепт от нашего бармена: 
+
+Счастливый билет 
+
+ Налей в стопку вишневый ликер 20 мл. Используя коктейльную ложку и бокал для вина на шпажке 15° уложи слой водки 25 г. Укрась апельсиновой цедрой
+
+ Классический рецепт: 
+
+ Суббота 
+
+ Положи в шейкер зеленый виноград без косточек 8 ягод и подави мадлером. Налей в шейкер лаймовый сок 15 мл, яблочный сок 40 мл, яблочный сироп желтый 10 мл, имбирный сироп 10 мл и водку 50 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный коктейльный бокал 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, сок
+INFO:root:Рецепт от нашего бармена: 
+
+Падение берри краш 
+
+ Наполни хайбол кубиками льда доверху. Налей в шейкер лимонный сок 15 мл и водку 50 г. Добавь вишневый ликера зеленый 20 дэш с портвейном 60 мо  долей просекко 80 гранулы
+
+ Классический рецепт: 
+
+ Баба Таня 
+
+ Положи в шейкер половинку киви и подави мадлером. Налей лаймовый сок 10 мл, кленовый сироп 10 мл и белое вино сухое 40 мл. Добавь мяту 1 листик и домашнюю ванильную водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный коктейльный бокал. Аккуратно долей просекко доверху 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:ничего не понял
+INFO:root:Рецепт от нашего бармена: 
+
+Кофейная пуля 
+
+ Налей в стопку кофейный ликер 20 мл. Используя коктейльную ложку и лимонную цедру спрайта на шпажке 2 раза сильно  постучи вилкой по столу несколько раз. Ночной горшок с печеньем
+
+ Классический рецепт: 
+
+ Французский гоголь-моголь 
+
+ Налей в питчер желтки перепелиных яиц 5 шт., мед 20 мл, нежирные сливки 50 мл, молоко 70 мл и коньяк 15 мл. Помешивая, нагрей, не доводя до кипения. Перелей в бокал для ирландского кофе. Укрась печеньем и тертым черным шоколадом 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Малина, клубника, водкк
+INFO:root:Рецепт от нашего бармена: 
+
+Горящий коктейль 
+
+ Положи в блендер малиновое пюре 6 коктейльных ложек. Налей лаймовую воду 5 мл и сахарный сироп 15 г. Добавь клубничный джем 1/3 кг.. Взбей без добавления льда до образования воздушной пенки
+
+ Классический рецепт: 
+
+ Ягодный твист 
+
+ Положи в блендер ежевику 3 ягоды, малину 3 ягоды, клубнику 3 ягоды и черинку 1 коктейльную ложку. Добавь лимонный сок 15 мл, ананасовый сок 100 мл, апельсиновый сок 100 мл и гренадин 10 мл. Насыпь в блендер совок дробленого льда и взбей. Перелей в слинг. Укрась веточкой мяты и ягодами ежевики, малины и черники на коктейльной шпажке 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, пиво
+INFO:root:Рецепт от нашего бармена: 
+
+Пить можно при помощи свизл стикшотов 
+
+ Налей в стопку вишневый ликер 20 мл. Используя коктейльную ложку и лимонный сок 15 г., уложи слоями водку 25 мл с ароматом корицы 2 дэш. Добавь пишо биттер 1/2 барных ложки молотого мускатного ореха 3 шт.. Укрась веточкой мяты
+
+ Классический рецепт: 
+
+ Отведи меня домой 
+
+ Наполни стакан кубиками льда доверху. Налей лаймовый сок 20 мл и водку 40 мл. Добавь малиновое пюре 3 коктейльных ложки и долей имбирное пиво доверху. Аккуратно размешай коктейльной ложкой. Положи в блендер зеленый базилик 5 листиков, щепотку лецитина и молоко 30 мл. Взбей до образования пены. Укрась коктейль получившейся пеной и листиками мяты 
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:виски, лимон, ликер
+INFO:root:Рецепт от нашего бармена: 
+
+Ржавая тыква 
+
+ Налей в шейкер лимонный сок 15 мл и ликера трипл сек 25 г. Добавь вишневый биттер 1 дэш. Наполни хайбол кубиками льда доверху
+
+ Классический рецепт: 
+
+ Крутая пощечина 
+
+ Налей в шейкер сахарный сироп 10 мл и банановый ликер желтый 25 мл. Добавь апельсиновый биттер 1 дэш, односолодовый виски с острова Айла 5 мл и писко 30 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в шампанское блюдце. Укрась лимонной цедрой 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Danila, user_id = 232805122
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=NameError("name 'telegram' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 255, in send_welcome
+    await message.reply(text, parse_mode=telegram.ParseMode.HTML)
+NameError: name 'telegram' is not defined
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Рецепт от нашего бармена: 
+
+Горящий коктейль 
+
+ Положи в блендер малиновое пюре 6 коктейльных ложек. Налей лаймовую воду 5 мл и сахарный сироп 15 г. Добавь клубничный джем 1/3 кг.. Взбей без добавления льда до образования воздушной пенки
+
+ Классический рецепт: 
+
+ Ягодный твист 
+
+ Положи в блендер ежевику 3 ягоды, малину 3 ягоды, клубнику 3 ягоды и черинку 1 коктейльную ложку. Добавь лимонный сок 15 мл, ананасовый сок 100 мл, апельсиновый сок 100 мл и гренадин 10 мл. Насыпь в блендер совок дробленого льда и взбей. Перелей в слинг. Укрась веточкой мяты и ягодами ежевики, малины и черники на коктейльной шпажке
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RuntimeError('CUDA out of memory. Tried to allocate 224.00 MiB (GPU 0; 6.00 GiB total capacity; 3.97 GiB already allocated; 0 bytes free; 4.59 GiB reserved in total by PyTorch)')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 306, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 222, in get_text
+    sample_outputs_recipe = generate_recipe(text_user, kw)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 121, in generate_recipe
+    return model.generate(generated,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\autograd\grad_mode.py", line 28, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1016, in generate
+    return self.sample(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1531, in sample
+    outputs = self(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 943, in forward
+    transformer_outputs = self.transformer(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 791, in forward
+    outputs = block(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 354, in forward
+    feed_forward_hidden_states = self.mlp(hidden_states)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 282, in forward
+    hidden_states = self.act(hidden_states)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\activations.py", line 42, in gelu_new
+    return 0.5 * x * (1.0 + torch.tanh(math.sqrt(2.0 / math.pi) * (x + 0.044715 * torch.pow(x, 3.0))))
+RuntimeError: CUDA out of memory. Tried to allocate 224.00 MiB (GPU 0; 6.00 GiB total capacity; 3.97 GiB already allocated; 0 bytes free; 4.59 GiB reserved in total by PyTorch)
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Вино, водка, cок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Розовая пуля </b>
+
+ Налей в стопку вишневый сок 10 мл. Используя коктейльную ложку и наполни бокал кубиками льда доверху. Наль лимонный cоки 50 г., медовый сироп 15 дэш, ликер корицы 20 капель и водку 40 л
+
+ <i>Классический рецепт:</i> 
+
+ <b>Суббота</b> 
+
+ Положи в шейкер зеленый виноград без косточек 8 ягод и подави мадлером. Налей в шейкер лаймовый сок 15 мл, яблочный сок 40 мл, яблочный сироп желтый 10 мл, имбирный сироп 10 мл и водку 50 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный коктейльный бокал 
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Топ апельсин </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей сок дольки корня имбиря и аккуратно размешай коктейльной ложкой.. Укрась кружком апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Водка грушевая спрайт</b> 
+
+ Наполни хайбол кубиками льда доверху. Налей лаймовый сок 10 мл и водку 50 мл . Долей спрайт доверху и аккуратно размешай коктейльной ложкой. Укрась дольками груши 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Рецепт от нашего бармена: 
+
+Горящий коктейль 
+
+ Положи в блендер малиновое пюре 6 коктейльных ложек. Налей лаймовую воду 5 мл и сахарный сироп 15 г. Добавь клубничный джем 1/3 кг.. Взбей без добавления льда до образования воздушной пенки
+
+ Классический рецепт: 
+
+ Ягодный твист 
+
+ Положи в блендер ежевику 3 ягоды, малину 3 ягоды, клубнику 3 ягоды и черинку 1 коктейльную ложку. Добавь лимонный сок 15 мл, ананасовый сок 100 мл, апельсиновый сок 100 мл и гренадин 10 мл. Насыпь в блендер совок дробленого льда и взбей. Перелей в слинг. Укрась веточкой мяты и ягодами ежевики, малины и черники на коктейльной шпажке
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RuntimeError('CUDA out of memory. Tried to allocate 224.00 MiB (GPU 0; 6.00 GiB total capacity; 3.97 GiB already allocated; 0 bytes free; 4.59 GiB reserved in total by PyTorch)')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 307, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 223, in get_text
+    sample_outputs_recipe = generate_recipe(text_user, kw)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 122, in generate_recipe
+    return model.generate(generated,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\autograd\grad_mode.py", line 28, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1016, in generate
+    return self.sample(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1531, in sample
+    outputs = self(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 943, in forward
+    transformer_outputs = self.transformer(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 791, in forward
+    outputs = block(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 354, in forward
+    feed_forward_hidden_states = self.mlp(hidden_states)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 282, in forward
+    hidden_states = self.act(hidden_states)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\activations.py", line 42, in gelu_new
+    return 0.5 * x * (1.0 + torch.tanh(math.sqrt(2.0 / math.pi) * (x + 0.044715 * torch.pow(x, 3.0))))
+RuntimeError: CUDA out of memory. Tried to allocate 224.00 MiB (GPU 0; 6.00 GiB total capacity; 3.97 GiB already allocated; 0 bytes free; 4.59 GiB reserved in total by PyTorch)
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, виски
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Роллинг слайс </b>
+
+ Налей в стопку вишневый ликер 25 мл. Используя коктейльную ложку уложи слоями водку 15 г и виски 10. Подожги коктейль до образования пены на блюдце с жженым тростниковым сахаром
+
+ <i>Классический рецепт:</i> 
+
+ <b>Ярость дракона</b> 
+
+ Помести в хайбол чайное ситечко с сухим льдом. Налей в шейкер лаймовый сок 10 мл, грейпфрутовый сок 40 мл и пряный сироп 10 мл. Добавь сироп личи 10 мл, шотландский вики 30 мл и водку 60 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в хайбол. Долей пшеничное пиво доверху. Укрась двумя кружками подсушенной питайи и подавай с бомбильей 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, виски
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Виски дайкири </b>
+
+ Налей в стопку вишневый ликер 20 мл. Используя коктейльную ложку уложи слоями водку 15 и виски 40. Укрась лимонной цедрой с лаймовой крошкой на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Ярость дракона</b> 
+
+ Помести в хайбол чайное ситечко с сухим льдом. Налей в шейкер лаймовый сок 10 мл, грейпфрутовый сок 40 мл и пряный сироп 10 мл. Добавь сироп личи 10 мл, шотландский вики 30 мл и водку 60 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в хайбол. Долей пшеничное пиво доверху. Укрась двумя кружками подсушенной питайи и подавай с бомбильей 
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=AttributeError("module 'telegram' has no attribute 'ParseMode'")>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 309, in handle_docs_photo
+    await bot.send_message(chat_id, output_text, reply_markup = nav.mainMenu, parse_mode=telegram.ParseMode.HTML)
+AttributeError: module 'telegram' has no attribute 'ParseMode'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, виски
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Виски с медом </b>
+
+ Налей в стопку вишневый ликер 15 мл. Используя коктейльную ложку и лимонную цедру спрайта, уложи слоями водку 10 г и виски 25 капель. Укрась апельсиновой травой
+
+ <i>Классический рецепт:</i> 
+
+ <b>Мисо Кальенте</b> 
+
+ Налей в шейкер лимонный сок 30 мл и домашний мисо сироп 30 мл. Добавь домашнюю водку с чили 3 дэш и шотландский виски 60 мл. Наполни шейкер кубиками льда и тщательно взбей . Перелей через стрейнер в охлажденный коктейльный бокал. Укрась пластинкой ламинарии 
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=AttributeError("module 'telegram' has no attribute 'constants'")>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 309, in handle_docs_photo
+    await bot.send_message(chat_id, output_text, reply_markup = nav.mainMenu, parse_mode=telegram.constants.PARSEMODE_HTML)
+AttributeError: module 'telegram' has no attribute 'constants'
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Кровь без сахара </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей сок дольки корня имбиря и аккуратно размешай коктейльной ложкой. Укрась двумя кружками апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Мисо Кальенте</b> 
+
+ Налей в шейкер лимонный сок 30 мл и домашний мисо сироп 30 мл. Добавь домашнюю водку с чили 3 дэш и шотландский виски 60 мл. Наполни шейкер кубиками льда и тщательно взбей . Перелей через стрейнер в охлажденный коктейльный бокал. Укрась пластинкой ламинарии 
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-19' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=AttributeError("module 'telegram' has no attribute 'constants'")>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 309, in handle_docs_photo
+    await bot.send_message(chat_id, output_text, reply_markup = nav.mainMenu, parse_mode=telegram.constants.PARSEMODE_HTML)
+AttributeError: module 'telegram' has no attribute 'constants'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, виски
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Дымный пистолет </b>
+
+ Налей в стопку вишневый ликер 20 мл. Используя коктейльную ложку уложи слоями водку 15 и виски 10. Укрась лимонной цедрой на шпажке коктейль из миринья
+
+ <i>Классический рецепт:</i> 
+
+ <b>Мисо Кальенте</b> 
+
+ Налей в шейкер лимонный сок 30 мл и домашний мисо сироп 30 мл. Добавь домашнюю водку с чили 3 дэш и шотландский виски 60 мл. Наполни шейкер кубиками льда и тщательно взбей . Перелей через стрейнер в охлажденный коктейльный бокал. Укрась пластинкой ламинарии 
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Дымный апельсин </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей содовую 100 г и аккуратно размешай коктейльной ложкой! Укрась кружком апельсина на шпажке с жженым кофе
+
+ <i>Классический рецепт:</i> 
+
+ <b>Водка гранатовый сок</b> 
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл . Долей гранатовый сок доверху и аккуратно размешай коктейльной ложкой. Укрась маленькой долькой граната 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:Водка, сок, лимон
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водяной тикибокал </b>
+
+ Наполни рокс кубиками льда доверху. Налей лимонный сок 15 мл и водку 50 г. Долей содовую 100 мл  Размешай коктейльной ложкой лед с помощью свизл стик
+
+ <i>Классический рецепт:</i> 
+
+ <b>Капри</b> 
+
+ Положи в хайбол эстрагон 30 листьев. Наполни хайбол дробленым льдом доверху. Налей лаймовый сок 10 мл, сироп лимонника 40 мл и цитрусовую  водку 40 мл. Долей содовую доверху и аккуратно размешай коктейльной ложкой. Досыпь немного дробленого льда. Укрась веточкой эстрагона и лимонной цедрой 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!

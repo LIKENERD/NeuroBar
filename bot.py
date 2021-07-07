@@ -21,7 +21,7 @@ from torchvision import transforms, models
 from IPython.display import clear_output
 from aiogram import Bot, Dispatcher, executor, types
 from PIL import Image
-
+import telegram
 import logging
 from aiogram import Bot, Dispatcher, executor, types
 import markups as nav
@@ -46,6 +46,9 @@ dp = Dispatcher(bot)
 
 df_result = pd.read_csv('ready_recipe.csv')
 df_result.drop('Unnamed: 0', axis=1, inplace=True)
+
+
+
 
 # Объявление модели для создания рецепта
 MODEL = 'sberbank-ai/rugpt3small_based_on_gpt2'
@@ -228,10 +231,10 @@ def get_text(text_user):
     ready_recipe = get_ready_recipe(keywords)
 
     if len(ready_recipe) == 1:
-        output = (f'Рецепт от нашего бармена: \n\n{recipe_title[0]} \n\n {recipe}\n\n Классический рецепт с такими игредиентами отсутствует')
+        output = (f'<i>Рецепт от нашего бармена: </i>\n\n<b>{recipe_title[0]}</b> \n\n {recipe}\n\n <i>Классический рецепт с такими игредиентами отсутствует</i>')
     else:
         output = (
-            f'Рецепт от нашего бармена: \n\n{recipe_title[0]} \n\n {recipe}\n\n Классический рецепт: \n\n {ready_recipe[0]} \n\n {ready_recipe[1]} ')
+            f'<i>Рецепт от нашего бармена: </i> <b>\n\n{recipe_title[0]} </b>\n\n {recipe}\n\n <i>Классический рецепт:</i> \n\n <b>{ready_recipe[0]}</b> \n\n {ready_recipe[1]} ')
     logging.info(output)
     return output
 
@@ -267,14 +270,15 @@ async def handle_docs_photo(message):
 @dp.message_handler(content_types=['text'])
 async def handle_docs_photo(message: types.Message):
     user_id = message.from_user.id
-    if message.text == 'ничего не понял':
+    if message.text == 'FAQ':
         i = open("input\\tools.jpeg", 'rb')
         await bot.send_photo(user_id, i)
+        await bot.send_message(message.from_user.id, 'Надеюсь, так стало понятнее.Введи ингредиенты через запятую!')
 
-    elif message.text == 'всё понял':
-        await bot.send_message(message.from_user.id, 'до дна')
+    elif message.text == 'начать сначала':
+        await bot.send_message(message.from_user.id, 'Введи ингредиенты через запятую:')
 
-    elif message.text == '➡️ Другое':
+    elif message.text == 'другое':
         await bot.send_message(message.from_user.id, '➡️ Другое', reply_markup = nav.otherMenu)
 
     else:
@@ -287,7 +291,7 @@ async def handle_docs_photo(message: types.Message):
         message_id = message.message_id
 
         # Записываем в текст наше сообщение о то, что бот обрабатывает фото
-        text = WAITING_TEXT %user_name
+        text = WAITING_TEXT
 
         # Пишем в лог сообщение о нашем пользователе
         logging.info(f'{user_name, user_id} is knocking to our bot')
@@ -301,19 +305,19 @@ async def handle_docs_photo(message: types.Message):
         logging.info(f'{user_name, user_id} send this text:{input_text}')
         output_text = get_text(input_text)
         # Отправляем текст нашего результата
-        await bot.send_message(chat_id, output_text, reply_markup = nav.mainMenu)
-
+        await bot.send_message(chat_id, output_text, reply_markup = nav.mainMenu, parse_mode='html')
 
 
 @dp.message_handler()
 async def bot_message(message: types.Message):
     #await bot.send_message(message.from_user.id, message.text)
-    if message.text == 'ничего не понял':
+    if message.text == 'FAQ':
         i = open("input\\tools.jpeg", 'rb')
         await bot.send_photo(chat_id,i)
+        await bot.send_message(message.from_user.id, 'Надеюсь, так стало понятнее.Введи ингредиенты через запятую!')
 
-    elif message.text == 'всё понял':
-        await bot.send_message(message.from_user.id, 'до дна')
+    elif message.text == 'начать сначала':
+        await bot.send_message(message.from_user.id, 'Введи ингредиенты через запятую:')
 
     elif message.text == '➡️ Другое':
         await bot.send_message(message.from_user.id, '➡️ Другое', reply_markup = nav.otherMenu)

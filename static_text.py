@@ -10,4 +10,4 @@ NON_TARGET_CONTENT_TYPES = [
 
 NON_TARGET_TEXT = "Ты зачем мне это прислал, %s?"
 
-WAITING_TEXT = "Бармен пошел генерить, %s, терпение"
+WAITING_TEXT = "Бармен пошел создавать рецепт по вашим ингредиентам"
