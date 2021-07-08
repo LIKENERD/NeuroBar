@@ -731,3 +731,623 @@ INFO:root:<i>Рецепт от нашего бармена: </i> <b>
  Положи в хайбол эстрагон 30 листьев. Наполни хайбол дробленым льдом доверху. Налей лаймовый сок 10 мл, сироп лимонника 40 мл и цитрусовую  водку 40 мл. Долей содовую доверху и аккуратно размешай коктейльной ложкой. Досыпь немного дробленого льда. Укрась веточкой эстрагона и лимонной цедрой 
 INFO:aiogram.dispatcher.dispatcher:Stop polling...
 WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Имбирный лимонад в кувшине </b>
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл. Долей сок дольки корня имбиря и аккуратно размешай коктейльной ложкой.. Укрась половинкой кружка апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Светофор</b> 
+
+ Налей в шейкер лаймовый сок 5 мл, клюквенный сок 20 мл и водку 10 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер в первую стопку. Положи в шейкер мякоть половинки маракуйи и подави мадлером. Налей сироп маракуий 5 мл и белый ром 10 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко во вторую стопку. Налей в шейкер лимонный сок 5 мл, мятный ликер зеленый 5 мл и серебряную текилу 10 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер в третью стопку. Выпей сначала зеленый шот, потом – желтый, следом – красный 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:вино, сок, лимон
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Белый виноградиновый пирог </b>
+
+ Положи в рокс вишневый джем 2 коктейльных ложки. Налей лимонный сок 15 мл и белок перепелиного яйца 25 г. Добавь щепотку соли  молотой корицы 1 шт.. Долей содовую доверху
+
+ <i>Классический рецепт:</i> 
+
+ <b>Имбирно-виноградный мартини</b> 
+
+ Положи в шейкер зеленый виноград 3 ягоды, дольку корня имбиря и подави мадлером. Налей лимонный сок 15 мл, клюквенный сок 20 мл, сахарный сироп 10 мл и джин 60 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный коктейльный бокал. Укрась ягодами зеленого и красного винограда на шпажке 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:вино, сок, лимон
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Пожарная смэш </b>
+
+ Положи в рокс вишневый джем 4 коктейльных ложки. Налей лимонный сок 15 мл и домашний сироп из цветков бузины 20 г. Добавь апельсиновый биттер 1/2 шт.. Аккуратно размешай с помощью свизл стик
+
+ <i>Классический рецепт:</i> 
+
+ <b>Имбирно-виноградный мартини</b> 
+
+ Положи в шейкер зеленый виноград 3 ягоды, дольку корня имбиря и подави мадлером. Налей лимонный сок 15 мл, клюквенный сок 20 мл, сахарный сироп 10 мл и джин 60 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный коктейльный бокал. Укрась ягодами зеленого и красного винограда на шпажке 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:биттер, сок, лимон
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Имбирное пиво </b>
+
+ Налей в шейкер сок корня имбиря 5 мл и белок перепелиного яйца 25 г. Добавь лимонный биттере 2 дэш. Наполни хайбол кубиками льда доверху
+
+ <i>Классический рецепт:</i> 
+
+ <b>Джем сауэр</b> 
+
+ Наполни банку кубиками льда доверху. Налей в шейкер лимонный сок 20 мл, малиновый джем 10 г и сахарный сироп 5 мл. Добавь апельсиновый биттер 1 дэш и шотландский 50 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в банку. Долей содовую доверху. Укрась долькой апельсина 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, лимон
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водный шутер #2 </b>
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 100 г и аккуратно размешай коктейльной ложкой
+
+ <i>Классический рецепт:</i> 
+
+ <b>Белая сангрия в пунше</b> 
+
+ Пятилитровой чаши для пунша хватит примерно на 20–25 порций. Наполни чашу кубиками льда на 1/3. Брось в чашу примерно 15 коктейльных вишен и нарезанные на кружки: апельсин, лимон и лайм. Налей сахарный сироп 200 мл, белое вино сухое 1300 мл, персиковый ликер 300 мл и водку 300 мл. Долей содовую доверху и аккуратно размешай коктейльной ложкой 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, лимон
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Кровавый алмаз </b>
+
+ Наполни рокс кубиками льда доверху. Налей лимонный сок 15 мл и водку 50 г. Долей апельсиновый сироп 20 гранул в бокал для вина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Цитрус джем</b> 
+
+ Наполни рокс кубиками льда доверху. Положи в блендер апельсиновый джем 4 коктейльных ложки. Налей лимонный сок 15 мл и водку 50 мл. Взбей без добавления льда и перелей в рокс. Укрась мелко нарезанной апельсиновой цедрой 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водяная физз </b>
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 150 г и аккуратно размешай коктейльной ложкой. Укрась долькой апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Согревающий восточный мед</b> 
+
+ Положи в питчер четвертинку лайма, дольку апельсина, дольку грейпфрута и палочку корицы. Налей лимонный сок 15 мл, воду  100 мл, апельсиновый сок 200 мл, сироп маракуйи 20 мл, медовый сироп 20 мл и грейпфрутовую водку 70 мл. Помешивая, нагрей, не доводя до кипения. Перелей в чайник. Подавай на подставке со свечкой, чтобы коктейль не остывал 
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водяная маргарита </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 100 г и аккуратно размешай коктейльной ложкой! Укрась кружком апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Ревеневая лента</b> 
+
+ Наполни рокс кубиками льда доверху. Налей в шейкер гренадин 5 мл, апельсиновый сок 40 мл, ревеневый ликер 25 мл и водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер в рокс. Укрась апельсиновой цедрой 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водный лимонад в королевском бокале </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 150 г и аккуратно размешай коктейльной ложкой. Укрась кружком апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Согревающий восточный мед</b> 
+
+ Положи в питчер четвертинку лайма, дольку апельсина, дольку грейпфрута и палочку корицы. Налей лимонный сок 15 мл, воду  100 мл, апельсиновый сок 200 мл, сироп маракуйи 20 мл, медовый сироп 20 мл и грейпфрутовую водку 70 мл. Помешивая, нагрей, не доводя до кипения. Перелей в чайник. Подавай на подставке со свечкой, чтобы коктейль не остывал 
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Карибский чай </b>
+
+ Налей в стопку водку 50 мл. Используя коктейльную ложку уложи слоями апельсиновый сок 10 г и ликер трипл сек 25 дэш. Подожги содержимое сковороды с жженым кофе над огнем так чтобы капли карамели падали на пол слайса
+
+ <i>Классический рецепт:</i> 
+
+ <b>Пиммс № 6</b> 
+
+ Наполни кубок кубиками льда доверху. Налей лимонный сок 15 мл, красный вермут 40 мл, амаро 20 мл и водку 40 мл. Долей имбирное пиво доверху и аккуратно размешай коктейльной ложкой. Укрась полосками огурца, кружком апельсина и половинками клубники с мятой на коктейльной шпажке 
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водный джин с медом </b>
+
+ Наполни хайбол кубиками льда доверху. Налей в шейкер апельсиновый сок 15 мл и водку 50 г. Настаивай 10 дней при комнатной температуре до образования пены
+
+ <i>Классический рецепт:</i> 
+
+ <b>Восточный мед</b> 
+
+ Наполни рокс дробленым льдом доверху. Налей в шейкер лимонный сок 15 мл, сироп маракуйи 15 мл, медовый сироп 20 мл и грейпфрутовую водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер в рокс. Досыпь немного дробленого льда. Укрась кружком апельсина и мякотью половинки маракуйи 
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 383, in start_polling
+    updates = await self.bot.get_updates(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\bot\api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiohttp\client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiohttp\client.py", line 544, in _request
+    await resp.start(conn)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiohttp\client_reqrep.py", line 905, in start
+    self._continue = None
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiohttp\helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водный физз </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 100 г и аккуратно размешай коктейльной ложкой. Укрась долькой апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Космополитен</b> 
+
+ Налей в шейкер лаймовый сок 10 мл, клюквенный сок 50 мл, ликер трипл сек 20 мл и цитрусовую водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер в охлажденный коктейльный бокал. Зажги над коктейлем горелку и выжми на нее масло из апельсиновой цедры. Проведи цедрой по краям бокала и укрась ею коктейль 
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водный флип </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 90 г и аккуратно размешай коктейльной ложкой! Укрась долькой апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Транссибирский экспресс</b> 
+
+ Положи в хайбол дольку корня имбиря, облепиховый джем 2 коктейльных ложки и подави мадлером. Наполни хайбол дробленым льдом доверху. Налей водку 50 мл. Долей апельсиновый сок доверху и аккуратно размешай коктейльной ложкой. Досыпь немного дробленого льда. Поставь хайбол в подстаканник и укрась веточкой розмарина и кружком апельсина 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, малина
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1535' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=RuntimeError('CUDA out of memory. Tried to allocate 1.82 GiB (GPU 0; 6.00 GiB total capacity; 2.07 GiB already allocated; 1.05 GiB free; 3.30 GiB reserved in total by PyTorch)')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 306, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 226, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 166, in generate_title
+    return model_title.generate(generated_title,
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\autograd\grad_mode.py", line 28, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1016, in generate
+    return self.sample(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\generation_utils.py", line 1531, in sample
+    outputs = self(
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 965, in forward
+    lm_logits = self.lm_head(hidden_states)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\modules\linear.py", line 96, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\torch\nn\functional.py", line 1847, in linear
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA out of memory. Tried to allocate 1.82 GiB (GPU 0; 6.00 GiB total capacity; 2.07 GiB already allocated; 1.05 GiB free; 3.30 GiB reserved in total by PyTorch)
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, малина
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Кровавый алмаз </b>
+
+ Налей в стопку мятный ликер зеленый 20 мл. Используя коктейльную ложку уложи слоями водку 15 и лимонную цедру 1 шт.. Укрась малиной на шпажке с ламинарией
+
+ <i>Классический рецепт:</i> 
+
+ <b>Форрест Гамп</b> 
+
+ Положи в стакан для смешивания щавель 10 листьев и налей содовую 5 мл. Добавь тростниковый сахарный песок 1/2 коктейльных ложки и подави мадлером. Налей мед 5 мл и водку 40 мл. Наполни стакан дробленым льдом и аккуратно перемешай коктейльной ложкой. Перелей через стрейнер в стопку. Укрась ягодой малины, политой медом 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Водка, арбуз
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Аррак батата </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей просекко 120 дэш и аккуратно размешай коктейльной ложкой. Укрась долькой арбуза на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Летний вечер в Гаграх</b> 
+
+ Положи в шейкер мякоть дольки арбуза, ежевику 2 ягоды и подави мадлером. Налей лаймовый сок 10 мл, сироп маракуйи 15 мл и черносмородиновую водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер и ситечко в охлажденный флюте. Укрась шариком из арбуза на шпажке 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Злость, ярость, грусть, напалм
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-28' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 306, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 226, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Злость, ярость, грусть, напалм
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-36' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 306, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 226, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Злость, ярость, грусть, напалм, малина
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Клюквенно-яблочный пирог </b>
+
+ Положи в рокс малину 4 ягоды и подави мадлером. Налей лаймовую водку 50 мл. Долей клюквенный сок доверху
+
+ <i>Классический рецепт:</i> 
+
+ <b>Малиновый лимонад</b> 
+
+ Положи в харрикейн малину 10 ягод, нарезанную половинку лайма и подави мадлером. Наполни харрикейн дробленым льдом доверху. Налей малиновый сироп 20 мл . Долей содовую доверху и аккуратно размешай коктейльной ложкой. Досыпь немного дробленого льда. Укрась ягодами малины, долькой лайма и веточкой мяты 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водяная пуля </b>
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 100 г и аккуратно размешай коктейльной ложкой. Укрась долькой апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Потенциале спешл</b> 
+
+ Положи в хайбол корень имбиря 2 дольки, розмарин 2 веточки и подави мадлером. Наполни хайбол дробленым льдом доверху. Налей лимонный сок 15 мл, яблочный сироп зеленый 10 мл, пряный сироп 10 мл и водку 40 мл. Долей спрайт доверху и аккуратно размешай коктейльной ложкой. Досыпь немного дробленого льда. Укрась кружком апельсина, веточкой розмарина и долькой лимона 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Абсентом шутер </b>
+
+ Налей в стопку водку 50 мл. Ночной вишневый сок 40 г и абсент 10 дэш. Добавь апельсиновый биттер 2 капли.. Аккуратно размешай коктейльной ложкой
+
+ <i>Классический рецепт:</i> 
+
+ <b>Восточный мед</b> 
+
+ Наполни рокс дробленым льдом доверху. Налей в шейкер лимонный сок 15 мл, сироп маракуйи 15 мл, медовый сироп 20 мл и грейпфрутовую водку 40 мл. Наполни шейкер кубиками льда и взбей. Перелей через стрейнер в рокс. Досыпь немного дробленого льда. Укрась кружком апельсина и мякотью половинки маракуйи 
+INFO:root:First start from user_name = JackDorsey, user_id = 33354399
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Кровавая Мэри </b>
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 100 г и размешай коктейльной ложкой лед с помощью свизл стик 1 дэш
+
+ <i>Классический рецепт:</i> 
+
+ <b>Цитрус джем</b> 
+
+ Наполни рокс кубиками льда доверху. Положи в блендер апельсиновый джем 4 коктейльных ложки. Налей лимонный сок 15 мл и водку 50 мл. Взбей без добавления льда и перелей в рокс. Укрась мелко нарезанной апельсиновой цедрой 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водный бриз </b>
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 800 г и размешай коктейльной ложкой лед с пивом 60 стопок.. Укрась долькой апельсина
+
+ <i>Классический рецепт:</i> 
+
+ <b>Потенциале спешл</b> 
+
+ Положи в хайбол корень имбиря 2 дольки, розмарин 2 веточки и подави мадлером. Наполни хайбол дробленым льдом доверху. Налей лимонный сок 15 мл, яблочный сироп зеленый 10 мл, пряный сироп 10 мл и водку 40 мл. Долей спрайт доверху и аккуратно размешай коктейльной ложкой. Досыпь немного дробленого льда. Укрась кружком апельсина, веточкой розмарина и долькой лимона 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водный негрони </b>
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 100 г и аккуратно размешай коктейльной ложкой лед с пивом через трубочку на 2/3
+
+ <i>Классический рецепт:</i> 
+
+ <b>Согревающий восточный мед</b> 
+
+ Положи в питчер четвертинку лайма, дольку апельсина, дольку грейпфрута и палочку корицы. Налей лимонный сок 15 мл, воду  100 мл, апельсиновый сок 200 мл, сироп маракуйи 20 мл, медовый сироп 20 мл и грейпфрутовую водку 70 мл. Помешивая, нагрей, не доводя до кипения. Перелей в чайник. Подавай на подставке со свечкой, чтобы коктейль не остывал 
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:Текила, ликер
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Клуб Буэнос-Айреса </b>
+
+ Наполни рокс кубиками льда доверху. Налей ликер мараскино 10 мл и текилу 50 г. Долей тоник из цветков бузины 20 дэш  Размешай коктейльной ложкой лед с помощью свизл стик
+
+ <i>Классический рецепт:</i> 
+
+ <b>Долорес парк свизл</b> 
+
+ Наполни слинг дробленым льдом доверху. Налей лаймовый сок 15 мл, имбирный сироп 15 мл, ликер фалернум 15 мл, херес амонтильядо 30 мл и золотую текилу 30 мл. Добавь ангостуру биттер 1 дэш. Размешай с помощью свизл стик. Досыпь немного дробленого льда. Укрась веточкой мяты 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Авокадо, виски, вермут
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Вишня красная </b>
+
+ Наполни рокс кубиками льда доверху. Налей в шейкер вишневый сок 20 мл и красный вермут 50 г. Добавь ликера трипл сек 30 дэш
+
+ <i>Классический рецепт:</i> 
+
+ <b>Любопытство</b> 
+
+ Наполни рокс кубиками льда доверху. Налей в стакан для смешивания бехеровку 5 мл, красный вермут 10 мл и апероль 20 мл. Добавь абсент 1 дэш, малиновый джем 5 г и ржаной виски 40 мл. Наполни стакан кубиками льда и размешай коктейльной ложкой. Перелей через стрейнер и ситечко в рокс. Укрась ягодами малины и черники на шпажке и лимонной цедрой 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Абрикос, ананас, молоко, водкп
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Топ айленд сауэр </b>
+
+ Налей в шейкер ананасовую водку 50 мл и абсент 5 дэш. Добавь молоко 75 г. Наполни стакан кубиками льда доверху! Наль клюквенный сок 15 мл  долей примерно через трубочку получившийся сироп 20 капель
+
+ <i>Классический рецепт:</i> 
+
+ <b>Тигровое молоко</b> 
+
+ Наполни бокал для вина дробленым льдом доверху. Налей кокосовое молоко 50 мл, лаймовый сок 10 мл, пряный сироп 10 и ананасовый сироп 10 мл. Добавь белый ром 20 мл, темный ром 20 мл и золотой ром 20 мл. Аккуратно размешай коктейльной ложкой. Укрась пудрой гибискуса и веточкой мяты 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Молоко, пудра
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Кровь дракона </b>
+
+ Налей в стакан для смешивания молоко 80 мл и жирные сливки 50 г. Добавь пудру гибискуса 2 дэш. Наполни бокал кубиками льда доверху! Наль лимонный сок 15 мл  долей до половины коктейля
+
+ <i>Классический рецепт:</i> 
+
+ <b>Том и Джерри</b> 
+
+ Взбей в миске белок перепелиного яйца 25 мл до образования воздушной пены. Отдельно взбей желтки 5 шт. с сахарной пудрой 2 коктейльных ложками. Перелей содержимое обеих мисок в кофейную чашку. Добавь коньяк 25 мл и темный ром 25 мл . Долей горячее молоко доверху и аккуратно размешай коктейльной ложкой. Укрась мускатным орехом молотым 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Коньяк, орех, молоко
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Молочный пирог </b>
+
+ Положи в шейкер нарезанный огурец 1 шт и подави мадлером. Налей жирные сливки 20 мл. Добавь молоко 80 г., мед 10 коктейльных ложек  или коньяк 30 дэш на выбор из стопок получившегося устричного соуса
+
+ <i>Классический рецепт:</i> 
+
+ <b>Том и Джерри</b> 
+
+ Взбей в миске белок перепелиного яйца 25 мл до образования воздушной пены. Отдельно взбей желтки 5 шт. с сахарной пудрой 2 коктейльных ложками. Перелей содержимое обеих мисок в кофейную чашку. Добавь коньяк 25 мл и темный ром 25 мл . Долей горячее молоко доверху и аккуратно размешай коктейльной ложкой. Укрась мускатным орехом молотым 
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Орех, коньяк, текила
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Лошадиная шея </b>
+
+ Налей в стопку ликер амаретто 20 мл. Используя коктейльную ложку уложи слоями коньяк 15 и водку 25 капель. Подожги содержимое сковороды с помощью горелкой от кофемашины  во френчпрессе
+
+ <i>Классический рецепт:</i> 
+
+ <b>Молочный бренди пунш</b> 
+
+ Наполни коллинз кубиками льда доверху. Налей в шейкер жирные сливки 25 мл, молоко 75 мл, сахарный сироп 15 мл, ванильный сироп 10 мл и коньяк 50 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в бокал. Укрась мускатным орехом молотым 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:апельсин, водка, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Водный шартрез </b>
+
+ Наполни хайбол кубиками льда доверху. Налей водку 50 мл. Долей апельсиновый сок 100 г и аккуратно размешай коктейльной ложкой. Укрась долькой апельсина на шпажке
+
+ <i>Классический рецепт:</i> 
+
+ <b>Цитрус джем</b> 
+
+ Наполни рокс кубиками льда доверху. Положи в блендер апельсиновый джем 4 коктейльных ложки. Налей лимонный сок 15 мл и водку 50 мл. Взбей без добавления льда и перелей в рокс. Укрась мелко нарезанной апельсиновой цедрой 
+INFO:root:('ulyumdzhi', 49131625) is knocking to our bot
+INFO:root:('ulyumdzhi', 49131625) send this text:корица, сливки, ром
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Двойной виски </b>
+
+ Положи в питчер нарезанную половинку кружка апельсина и подави мадлером. Добавь щепотку молотой корицы. Налей жирные сливовые сироп 20 мл  подай с кусочком карамболы
+
+ <i>Классический рецепт:</i> 
+
+ <b>Перфект континиус</b> 
+
+ Положи в блендер клубнику 3 ягоды. Налей жирные сливки 40 мл, клубничный сироп 20 мл, карамельный сироп 20 мл, айриш крим 40 мл и белый ром 30 мл. Добавь в блендер совок дробленого льда и взбей. Перелей в хайбол. Укрась ягодой клубники 
+INFO:root:First start from user_name = Anutka, user_id = 66178974
+INFO:root:('Anutka', 66178974) is knocking to our bot
+INFO:root:('Anutka', 66178974) send this text:Виски, сок, джин, тоник, шампанское
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Сливочный мартини </b>
+
+ Налей в стопку вишневый ликер 15 мл. Используя коктейльную ложку и лимонный сок 20 г., уложи слоями тони 10 капель красного соуса 5 мо, джин 30 дэш
+
+ <i>Классический рецепт:</i> 
+
+ <b>Розовый сад</b> 
+
+ Наполни хайбол кубиками льда доверху. Налей лимонный сок 20 мл, сок личи 60 мл и сироп розы 10 мл. Добавь малиновый сироп 10 мл и ботаникал джин 40 мл. Долей тоник доверху и аккуратно размешай коктейльной ложкой. Укрась двумя кружками огурца и двумя ягодами ежевики на шпажке 
+INFO:root:('JackDorsey', 33354399) is knocking to our bot
+INFO:root:('JackDorsey', 33354399) send this text:пиво, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Прыгающая Джессика </b>
+
+ Наполни хайбол кубиками льда доверху. Налей в шейкер сок корня имбиря 5 мл и белок перепелиного яйца 25 г. Добавь лимонный биттер 2 дэш или пишо 30 капель.. Настаивай на огне 4–6 часов при температуре 150°C до тех пор пока жидкость не станет прозрачной
+
+ <i>Классический рецепт:</i> 
+
+ <b>Лошадиная шея в сифоне</b> 
+
+ Одного сифона приблизительно хватит на 4 хайбола. Наполни хайбол кубиками льда доверху. Налей в сифон лимонный сок 45 мл, сок корня имбиря 25 мл, сахарный сироп 50 мл, имбирное пиво 650 мл и коньяк 200 мл. Закрой сифон и взбей 3–4 раза. Налей в хайбол коктейль из сифона и укрась лимонной цедрой 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Lyly', 382728010) is knocking to our bot
+INFO:root:('Lyly', 382728010) send this text:Пиво, сок
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Пишоко с кореньем физз </b>
+
+ Наполни рокс кубиками льда доверху. Налей в шейкер сок корня имбиря 5 мл и лимонный уксус 15 г. Добавь пиво биттер 1 дэш.. Настаивай при комнатной температуре 3–4 минуты до растворения сахара во флюте
+
+ <i>Классический рецепт:</i> 
+
+ <b>Кофейный джин тоник с ягодами</b> 
+
+ Положи в бокал кубики льда и ягоды. Налей в бокал для вина сироп мятный мохито 20 мл и лимонный сок 10 мл. Добавь имбирное пиво 120 мл и джин 40 мл. Аккуратно размешай коктейльной ложкой и долей эспрессо доверху. Укрась листиками мяты 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:Лайм, сироп, ром
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Двойной виски </b>
+
+ Наполни хайбол кубиками льда доверху. Налей лаймовую водку 50 мл. Долей сир Бранко 150 г и аккуратно размешай коктейльной ложкой. Укрась кружком лимона
+
+ <i>Классический рецепт:</i> 
+
+ <b>Пунш плантатора</b> 
+
+ Наполни харрикейн кубиками льда доверху. Налей в шейкер лаймовый сок 10 мл, апельсиновый сок 40 мл и ананасовый сок 40 мл. Добавь сахарный сироп 10 мл, гренадин 5 мл, ангостуру биттер 1 дэш, ликер фалернум 5 мл, ликер драй оранж 10 мл, белый ром 20 мл и темный ром 20 мл. Наполни шейкер кубиками льда и тщательно взбей. Перелей через стрейнер в харрикейн. Укрась кружком апельсина, листом и долькой ананаса, коктейльной вишней 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:Лайм, пиво
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Облако ванили </b>
+
+ Налей в шейкер лаймовую водку 50 мл и абрикосовый ликера зеленый 20 г. Добавь пиво биттер 1 дэш. Наполни хайбол кубиками льда доверху
+
+ <i>Классический рецепт:</i> 
+
+ <b>Летний бриз</b> 
+
+ Положи в харрикейн нарезанные четвертинки лайма и апельсина и подави мадлером. Наполни харрикейн дробленым льдом доверху. Налей сироп розы 10 мл и мандариновый сироп 20 мл . Долей светлое пиво доверху и аккуратно размешай коктейльной ложкой. Досыпь немного дробленого льда. Укрась физалисом, дольками апельсина и лайма 
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Neuro Bar [@Neuro_bar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:начать сначала
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=IndexError('list index out of range')>
+Traceback (most recent call last):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\Night Fury\AppData\Roaming\Python\Python38\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 309, in handle_docs_photo
+    output_text = get_text(input_text)
+  File "c:/Dev/FP/recipe_cocktails/bot.py", line 226, in get_text
+    sample_outputs_title = generate_title(keywords, sorted_tuple[0][0], kw)
+IndexError: list index out of range
+INFO:root:First start from user_name = Danila, user_id = 232805122
+INFO:root:('Danila', 232805122) is knocking to our bot
+INFO:root:('Danila', 232805122) send this text:Водка, пиво
+INFO:root:<i>Рецепт от нашего бармена: </i> <b>
+
+Спайк с Марком катенаджер </b>
+
+ Наполни рокс кубиками льда доверху. Налей водку 50 мл. Долей спрайт 100 г и аккуратно размешай коктейльной ложкой  Перед употреблением наложи в шейкер пюре из маракуйи 1 шт.. Добавь пиво биттер 2 дэш
+
+ <i>Классический рецепт:</i> 
+
+ <b>Аррак мул</b> 
+
+ Наполни хайбол кубиками льда доверху. Налей лимонный сок 20 мл, ананасовый сок 40 мл и банановый сироп желтый 20 мл. Добавь холодный зеленый чай 25 мл, кокосовую водку 30 мл и лондонский сухой джин 40 мл. Долей имбирное пиво доверху и аккуратно размешай коктейльной ложкой . Укрась пучком мяты, ананасом в корице, физалисом в кунжуте и клюквой в сахарной пудре 

@@ -229,6 +229,9 @@ def get_text(text_user):
     recipe = sorted_tuple[0][0].replace(' л ', ' мл ')
 
     ready_recipe = get_ready_recipe(keywords)
+    if ('пиво' in keywords) and (recipe.find('пишо') != -1):
+        recipe = recipe.replace('пишо', 'пиво')
+    
 
     if len(ready_recipe) == 1:
         output = (f'<i>Рецепт от нашего бармена: </i>\n\n<b>{recipe_title[0]}</b> \n\n {recipe}\n\n <i>Классический рецепт с такими игредиентами отсутствует</i>')
@@ -271,11 +274,11 @@ async def handle_docs_photo(message):
 async def handle_docs_photo(message: types.Message):
     user_id = message.from_user.id
     if message.text == 'FAQ':
-        i = open("input\\tools.jpeg", 'rb')
+        i = open("input\shpargalka.png", 'rb')
         await bot.send_photo(user_id, i)
-        await bot.send_message(message.from_user.id, 'Надеюсь, так стало понятнее.Введи ингредиенты через запятую!')
+        await bot.send_message(message.from_user.id, 'Надеюсь, так стало понятнее. Введи ингредиенты через запятую!')
 
-    elif message.text == 'начать сначала':
+    elif message.text == 'Начать сначала':
         await bot.send_message(message.from_user.id, 'Введи ингредиенты через запятую:')
 
     elif message.text == 'другое':
@@ -312,11 +315,11 @@ async def handle_docs_photo(message: types.Message):
 async def bot_message(message: types.Message):
     #await bot.send_message(message.from_user.id, message.text)
     if message.text == 'FAQ':
-        i = open("input\\tools.jpeg", 'rb')
+        i = open("input\shpargalka.png", 'rb')
         await bot.send_photo(chat_id,i)
-        await bot.send_message(message.from_user.id, 'Надеюсь, так стало понятнее.Введи ингредиенты через запятую!')
+        await bot.send_message(message.from_user.id, 'Надеюсь, так стало понятнее. Введи ингредиенты через запятую!')
 
-    elif message.text == 'начать сначала':
+    elif message.text == 'Начать сначала':
         await bot.send_message(message.from_user.id, 'Введи ингредиенты через запятую:')
 
     elif message.text == '➡️ Другое':

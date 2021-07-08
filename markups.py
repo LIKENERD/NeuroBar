@@ -4,7 +4,7 @@ btnMain = KeyboardButton('⬅️ Главное меню')
 
 # --- Main Menu ---
 btnRandom = KeyboardButton('FAQ')
-btnOther = KeyboardButton('начать сначала')
+btnOther = KeyboardButton('Начать сначала')
 mainMenu = ReplyKeyboardMarkup(resize_keyboard = True, one_time_keyboard=True).add(btnRandom, btnOther)
 
 
