@@ -65,4 +65,4 @@ https://t.me/neuro_bar_bot
 # Команда
 
 https://github.com/liliya-ily<br />
-https://github.com/deparma
+https://github.com/LIKENERD
